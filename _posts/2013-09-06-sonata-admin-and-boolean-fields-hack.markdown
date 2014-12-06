@@ -29,7 +29,7 @@ permalink: /blog/2013/09/sonata-admin-and-boolean-fields-hack/
      *<br />
      * @ORM\Column(name="myFavoriteBooleanField", type="boolean", nullable=true)<br />
      */<br />
-    private $myFavoriteBooleanField;</pre></p>
+    private $myFavoriteBooleanField;</pre>
 <p>Otherwise Sonata Admin will expect you to have this field checked and will not allow you to set value as 'false'. </p>
 <p>Another important detail, in validation do not set this field as NotBlank since it will cause same problems with unavailability of 'false' value to choose.</p>
 <p>I'm not sure if this is a but or not :(</p>
