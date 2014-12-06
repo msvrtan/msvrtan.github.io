@@ -30,10 +30,10 @@ apt-get install python-software-properties -y<br />
 add-apt-repository ppa:webupd8team/java<br />
 apt-get update<br />
 apt-get install oracle-java7-installer<br />
-</pre></p>
+</pre>
 <p>After Java is installed, go to <a href="http://elasticsearch.org/download/" target="_blank"> ElasticSearch download page</a> and download deb package.</p>
 <pre lang="bash">
 wget https://download.elasticsearch.org/elasticsearch/elasticsearch/elasticsearch-0.90.9.deb<br />
 dpkg -i elasticsearch-0.90.9.deb</p>
-<p></pre></p>
+</pre>
 <p>At this moment (Jan 2014) 0.90.9 is latest version of ElasticSearch. Thats it. You have ElasticSearch installed!</p>
