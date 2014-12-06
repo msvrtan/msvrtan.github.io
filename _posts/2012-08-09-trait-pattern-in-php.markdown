@@ -7,12 +7,12 @@ author:
   display_name: msvrtan
   login: orimblog
   email: miro@mirosvrtan.me
-  url: http://www.mirosvrtan.me/
+  url: https://www.mirosvrtan.me/
 author_login: orimblog
 author_email: miro@mirosvrtan.me
-author_url: http://www.mirosvrtan.me/
+author_url: https://www.mirosvrtan.me/
 wordpress_id: 103
-wordpress_url: http://www.mirosvrtan.me/blog/?p=103
+wordpress_url: https://www.mirosvrtan.me/blog/?p=103
 date: '2012-08-09 21:48:38 +0000'
 date_gmt: '2012-08-09 21:48:38 +0000'
 categories:
@@ -31,7 +31,7 @@ Instead of trying to explain traits myself I will use PHP manual and wikipedia d
 <p><a href="http://php.net/manual/en/language.oop5.traits.php" target="_blank">PHP manual</a>:</p>
 <p><em>"A Trait is similar to a class, but only intended to group functionality in a fine-grained and consistent way. It is not possible to instantiate a Trait on its own. It is an addition to traditional inheritance and enables horizontal composition of behavior; that is, the application of class members without requiring inheritance. "</em></p>
 <h1>SessionSingleton example</h1><br />
-I wrote a short <a href="http://www.mirosvrtan.me/blog/2012/08/singleton-pattern-in-php/" target="_blank">blog post</a> on singleton pattern and will use SessionSingleton example here to describe why we needed traits so badly (they are one of features that came with PHP 5.4).</p>
+I wrote a short <a href="https://www.mirosvrtan.me/blog/2012/08/singleton-pattern-in-php/" target="_blank">blog post</a> on singleton pattern and will use SessionSingleton example here to describe why we needed traits so badly (they are one of features that came with PHP 5.4).</p>
 <p>As you can see in <a href="https://github.com/msvrtan/xmpl/blob/master/SingletonSimple/Session.singleton.php" target="_blank"> SessionSingleton class </a> there are ~10 lines of code (without comments) needed for implementing Singleton pattern so why would we copy them around every time we want to build a singleton class? Lets move those lines of code into <a href="https://github.com/msvrtan/xmpl/blob/master/SingletonExtended/Base.singleton.php" target="_blank"> separate class </a> that all singleton classes will extend. This means that our <a href="https://github.com/msvrtan/xmpl/blob/master/SingletonExtended/Session.singleton.php" target="_blank"> SessionSingleton class </a> is now somewhat cleaner and easier to maintain since any bugs detected on Singleton implementation can be fixed on one place instead of using search-and-destroy bugfixing.</p>
 <h1>The next step .. traits</h1><br />
 As you can see now we still have get(),set() &amp; add() methods defined that are probably used all around already and are being copyed back and forth. We shouldnt move it into base singleton class since all other singletons will not have any use of it and on the other hand if we want some other classes to use it we would give them Singleton availability which we dont want. Since PHP doesn't support multiple inheritance or mixins we have 2 solutions:</p>

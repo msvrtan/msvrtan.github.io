@@ -7,12 +7,12 @@ author:
   display_name: msvrtan
   login: orimblog
   email: miro@mirosvrtan.me
-  url: http://www.mirosvrtan.me/
+  url: https://www.mirosvrtan.me/
 author_login: orimblog
 author_email: miro@mirosvrtan.me
-author_url: http://www.mirosvrtan.me/
+author_url: https://www.mirosvrtan.me/
 wordpress_id: 163
-wordpress_url: http://www.mirosvrtan.me/blog/?p=163
+wordpress_url: https://www.mirosvrtan.me/blog/?p=163
 date: '2012-09-17 20:28:51 +0000'
 date_gmt: '2012-09-17 20:28:51 +0000'
 categories:

@@ -7,12 +7,12 @@ author:
   display_name: msvrtan
   login: orimblog
   email: miro@mirosvrtan.me
-  url: http://www.mirosvrtan.me/
+  url: https://www.mirosvrtan.me/
 author_login: orimblog
 author_email: miro@mirosvrtan.me
-author_url: http://www.mirosvrtan.me/
+author_url: https://www.mirosvrtan.me/
 wordpress_id: 140
-wordpress_url: http://www.mirosvrtan.me/blog/?p=140
+wordpress_url: https://www.mirosvrtan.me/blog/?p=140
 date: '2012-08-25 20:12:18 +0000'
 date_gmt: '2012-08-25 20:12:18 +0000'
 categories:
@@ -24,7 +24,7 @@ tags:
 comments: []
 permalink: /blog/2012/08/php-fatal-errors-into-exceptions-natively/
 ---
-<p>In my last <a href="http://www.mirosvrtan.me/blog/2012/08/catching-calls-to-undefined-methods-in-php-is-it-a-good-idea/" target="_blank"> blog post </a> I was writing about fatal error problems when undefined methods do occur. I decided to wait with implementation to see what will other developers say and I was surpised a bit with how much people disagreed with the idea. Tthank you all for feedback here, on twitter and reddit since this got me thinking a little bit more. </p>
+<p>In my last <a href="https://www.mirosvrtan.me/blog/2012/08/catching-calls-to-undefined-methods-in-php-is-it-a-good-idea/" target="_blank"> blog post </a> I was writing about fatal error problems when undefined methods do occur. I decided to wait with implementation to see what will other developers say and I was surpised a bit with how much people disagreed with the idea. Tthank you all for feedback here, on twitter and reddit since this got me thinking a little bit more. </p>
 <p>If you concept your OO classes on public properties vs. getters/setters your PHP code behaves totally different. Lets say you want to load user 79 and print out a welcome message:</p>
 <p>Using getter method that is not implemented will get you fatal error saying how undefined method is called and request will stop.</p>
 <pre lang="php">
