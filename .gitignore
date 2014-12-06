@@ -8,3 +8,4 @@ bourbon/
 Gemfile.lock
 
 /.vagrant/
+/tmp/
