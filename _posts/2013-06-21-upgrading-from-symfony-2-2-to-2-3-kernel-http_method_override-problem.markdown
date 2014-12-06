@@ -29,7 +29,7 @@ permalink: /blog/2013/06/upgrading-from-symfony-2-2-to-2-3-kernel-http_method_ov
 php app/console cache:clear --env=prod --no-debug<br />
 </code></p>
 <p>I got error saying:</p>
-<p><a href="https://www.mirosvrtan.me/blog/wp-content/uploads/2013/06/symfony2.3kernel.http_method_override.error_.png"><img src="https://www.mirosvrtan.me/blog/wp-content/uploads/2013/06/symfony2.3kernel.http_method_override.error_.png" alt="symfony2.3kernel.http_method_override.error" width="648" height="99" class="alignleft size-full wp-image-432" /></a></p>
+<p><a href="https://www.mirosvrtan.me/assets/content/uploads/2013/06/symfony2.3kernel.http_method_override.error_.png"><img src="https://www.mirosvrtan.me/assets/content/uploads/2013/06/symfony2.3kernel.http_method_override.error_.png" alt="symfony2.3kernel.http_method_override.error" width="648" height="99" class="alignleft size-full wp-image-432" /></a></p>
 <p><code lang="php"><br />
 [Symfony\Component\DependencyInjection\Exception\InvalidArgumentException]<br />
 The parameter "kernel.http_method_override" must be defined.</code></p>
