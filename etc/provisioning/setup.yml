@@ -1,0 +1,20 @@
+#- include: apt.yml
+#- include: usual-packages.yml
+
+- hosts: servers
+  sudo: yes
+  tasks:
+    - name: Install usual packages
+      action: apt name="{{ item }}"
+      with_items:
+        - ruby1.9.3
+        - bundler
+    - name: ruby gems
+      gem: name="{{ item }}" state=latest
+      with_items:
+        - jekyll
+
+- hosts: servers
+  tasks:
+    - shell: bundle install chdir=/vagrant/octopress
+    - shell: rake install chdir=/vagrant/octopress

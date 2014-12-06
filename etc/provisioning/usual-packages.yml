@@ -1,0 +1,10 @@
+- hosts: servers
+  sudo: yes
+  tasks:
+    - name: Install usual packages
+      action: apt name="{{ item }}"
+      with_items:
+        - dstat
+        - joe
+        - git
+        - xz-utils
