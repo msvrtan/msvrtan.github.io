@@ -11,6 +11,21 @@ layout: default
 			{{ content }}
 		</div>
 	</div>
+  
+	<div class="social-buttonz">
+    <div style="display:inline-block">
+      <div class="fb-share-button" data-href="http://www.mirosvrtan.me{{ page.url }}" data-layout="button_count"></div>
+    </div>
+    <div style="display:inline-block">
+      <a href="https://twitter.com/share" class="twitter-share-button" data-via="msvrtan">Tweet</a>
+    </div>
+    <div style="display:inline-block">
+      <p><g:plusone size="medium"></g:plusone></p>
+    </div>
+    <div style="display:inline-block">
+      <script type="text/javascript" src="//www.redditstatic.com/button/button1.js"></script>
+    </div>
+	</div>
 
 
 	{% if site.related_posts %}
@@ -26,6 +41,8 @@ layout: default
 		</ul>
 	</div>
 	{% endif %}
+  
+
 
 	<div class="post-footer">
 		<div class="column-1">
@@ -46,3 +63,24 @@ layout: default
 	</div>
 </div>
  
+<div id="fb-root"></div>
+
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=474472329310222&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- Twitter -->
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+<!-- G+ -->	
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
