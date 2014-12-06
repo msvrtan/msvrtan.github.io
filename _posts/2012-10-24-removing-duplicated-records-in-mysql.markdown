@@ -23,6 +23,6 @@ tags:
 comments: []
 ---
 <p>Colleague just pointed out cool way of removing duplicate entries in MySQL. We had a 'small' problem in one table where some records got duplicated since we forgot to add UNIQUE index.</p>
-<p>So if you want to remove from table "<strong>my_favorite_table<&#47;strong>" all duplicated records and add forgotten unique index use "<strong>ALTER IGNORE TABLE<&#47;strong>" instead of "<strong>ALTER TABLE<&#47;strong>":</p>
-<pre lang="sql">ALTER IGNORE TABLE my_favorite_table ADD UNIQUE INDEX name_of_my_unqique_index(column_1, column_2)<&#47;pre><br />
+<p>So if you want to remove from table "<strong>my_favorite_table</strong>" all duplicated records and add forgotten unique index use "<strong>ALTER IGNORE TABLE</strong>" instead of "<strong>ALTER TABLE</strong>":</p>
+<pre lang="sql">ALTER IGNORE TABLE my_favorite_table ADD UNIQUE INDEX name_of_my_unqique_index(column_1, column_2)</pre><br />
 Thanks go to Luka Skupnjak for pointing out this cool trick!</p>

@@ -33,12 +33,12 @@ comments:
 ---
 <p>After upgrading from Symfony 2.2 to 2.3, when I would try to purge production cache with</p>
 <p><code lang="php"><br />
-php app&#47;console cache:clear --env=prod --no-debug<br />
-<&#47;code></p>
+php app/console cache:clear --env=prod --no-debug<br />
+</code></p>
 <p>I got error saying:</p>
-<p><a href="http:&#47;&#47;www.mirosvrtan.me&#47;blog&#47;wp-content&#47;uploads&#47;2013&#47;06&#47;symfony2.3kernel.http_method_override.error_.png"><img src="http:&#47;&#47;www.mirosvrtan.me&#47;blog&#47;wp-content&#47;uploads&#47;2013&#47;06&#47;symfony2.3kernel.http_method_override.error_.png" alt="symfony2.3kernel.http_method_override.error" width="648" height="99" class="alignleft size-full wp-image-432" &#47;><&#47;a></p>
+<p><a href="http://www.mirosvrtan.me/blog/wp-content/uploads/2013/06/symfony2.3kernel.http_method_override.error_.png"><img src="http://www.mirosvrtan.me/blog/wp-content/uploads/2013/06/symfony2.3kernel.http_method_override.error_.png" alt="symfony2.3kernel.http_method_override.error" width="648" height="99" class="alignleft size-full wp-image-432" /></a></p>
 <p><code lang="php"><br />
 [Symfony\Component\DependencyInjection\Exception\InvalidArgumentException]<br />
-The parameter "kernel.http_method_override" must be defined.<&#47;code></p>
-<p>For some strange reason this error happens only in production mode, I found out that deleting <strong>"app&#47;cache&#47;prod"<&#47;strong> folder and all of its contents solves it.</p>
+The parameter "kernel.http_method_override" must be defined.</code></p>
+<p>For some strange reason this error happens only in production mode, I found out that deleting <strong>"app/cache/prod"</strong> folder and all of its contents solves it.</p>
 <p>P.S. This was only problem I had with upgrading from 2.2 to 2.3 so upgrade went pretty smoothly..</p>

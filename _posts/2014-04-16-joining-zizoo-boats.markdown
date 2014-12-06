@@ -24,6 +24,6 @@ comments: []
 <p>Decision to leave Njuskalo, after 5 years building it into what it is now, was hard to come by. I'we always felt a very deep and personal connection to the project, happy to be a part of the team and probably most important: enjoying every single day. </p>
 <p>Now new challenges await... </p>
 <p>&nbsp;</p>
-<p>P.S. if you are interested in working on a great new project, being a part of really great team <a href="mailto:info@zizooboats.com">contact us<&#47;a>  ... we are already looking for <a href="https:&#47;&#47;www.smore.com&#47;pyr6q-zizooboats-is-hiring">senior frontend developers<&#47;a> and will be looking for additional senior PHP developers very very soon</p>
+<p>P.S. if you are interested in working on a great new project, being a part of really great team <a href="mailto:info@zizooboats.com">contact us</a>  ... we are already looking for <a href="https://www.smore.com/pyr6q-zizooboats-is-hiring">senior frontend developers</a> and will be looking for additional senior PHP developers very very soon</p>
 <p>&nbsp;<br />
 &nbsp;</p>

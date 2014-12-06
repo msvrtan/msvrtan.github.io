@@ -28,12 +28,12 @@ comments: []
 ---
 <p>
 Since PhpStorm works much faster with Oracle version of Java and Oracle JRE is not directly supported in Ubuntu here are 3 short steps how to get it:<br />
-<&#47;p></p>
+</p></p>
 <pre lang="bash">
-sudo add-apt-repository ppa:webupd8team&#47;java<br />
+sudo add-apt-repository ppa:webupd8team/java<br />
 sudo apt-get update<br />
 sudo apt-get install oracle-java7-installer<br />
-<&#47;pre></p>
+</pre></p>
 <p>
 That's it... don't be a hero like me and try to run PhpStorm with OpenJRE, it is really slow :(<br />
-<&#47;p></p>
+</p></p>

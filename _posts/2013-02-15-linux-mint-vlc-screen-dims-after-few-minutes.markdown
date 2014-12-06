@@ -38,7 +38,7 @@ comments:
   content: Feel free to move it past 1h 3m :)
 ---
 <p>Screen dims after 5 or 10 minutes of watching something in VLC? I got this issue on Linux Mint Nadia few months ago and few days ago when I installed it on laptop.</p>
-<p>All you have to do is open screen saver application and move slider to some higher value. <a href="http:&#47;&#47;www.mirosvrtan.me&#47;blog&#47;2013&#47;02&#47;linux-mint-vlc-screen-dims-after-few-minutes&#47;screen-saver-settings&#47;" rel="attachment wp-att-376"><img class="alignleft size-full wp-image-376" alt="screen saver settings" src="http:&#47;&#47;www.mirosvrtan.me&#47;blog&#47;wp-content&#47;uploads&#47;2013&#47;02&#47;screen-saver-settings.png" width="697" height="541" &#47;><&#47;a></p>
+<p>All you have to do is open screen saver application and move slider to some higher value. <a href="http://www.mirosvrtan.me/blog/2013/02/linux-mint-vlc-screen-dims-after-few-minutes/screen-saver-settings/" rel="attachment wp-att-376"><img class="alignleft size-full wp-image-376" alt="screen saver settings" src="http://www.mirosvrtan.me/blog/wp-content/uploads/2013/02/screen-saver-settings.png" width="697" height="541" /></a></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>

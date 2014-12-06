@@ -64,7 +64,7 @@ comments:
     but seems awesome so think I and my team will. So posted to show the solution
     that I found (though I'm sure someone here already have). It's to use zapier as
     bridge between trello and github, there is a page here on zapier detailing it:
-    https:&#47;&#47;zapier.com&#47;zapbook&#47;github&#47;trello&#47;.\r\n\r\nIt seems
+    https://zapier.com/zapbook/github/trello/.\r\n\r\nIt seems
     to work but have not really gotten around to trying it out yet. It is however
     not free unless you use less than 100 tasks a month. Which is possible if you
     only sync the issues themselves and nothing else. If you however also want to
@@ -82,14 +82,14 @@ comments:
   content: We're looking at Huboard.com which is specifically built with Github issues
     in mind and has a Trello-ish interface
 ---
-<p>After working with git for more then 2 years, few months ago I decided to start using <a href="http:&#47;&#47;www.github.com" target="_blank">Github<&#47;a> to store my repos and test different workflow arrangements. It worked out great, I'm really happy with all it offers (it is a little bit pricy for my taste though) and I'm loving it.</p>
-<p>In admin section of my repos some time ago I noticed unfamiliar term called 'Service Hooks' and decided to explore it. Service hooks are already prepared git post receive hooks for integration with other popular web services (<a href="https:&#47;&#47;help.github.com&#47;articles&#47;post-receive-hooks" target="_blank">description<&#47;a>) . Since I use <a href="https:&#47;&#47;trello.com&#47;" target="_blank">Trello<&#47;a> for todo's on some of my pet projects I decided to connect this two webservices.</p>
-<p>For easier demonstration I opened a new <a href="https:&#47;&#47;github.com&#47;msvrtan&#47;testing-trello-integration&#47;" target="_blank">github repo<&#47;a>, <a href="https:&#47;&#47;trello.com&#47;board&#47;testing-trello-github-integration&#47;5083d2888fb535b871008eb2" target="_blank">Trello board<&#47;a> and connected them.</p>
-<p><img alt="Trello board for testing integration" src="http:&#47;&#47;www.mirosvrtan.me&#47;blog&#47;wp-content&#47;uploads&#47;2012&#47;10&#47;trello-board-for-testing-integration-with-github.png" width="500px" &#47;></p>
-<p><img alt="github project for testing trello integration" src="http:&#47;&#47;www.mirosvrtan.me&#47;blog&#47;wp-content&#47;uploads&#47;2012&#47;10&#47;github-project-for-testing-trello-integration.png"  width="500px" &#47;></p>
+<p>After working with git for more then 2 years, few months ago I decided to start using <a href="http://www.github.com" target="_blank">Github</a> to store my repos and test different workflow arrangements. It worked out great, I'm really happy with all it offers (it is a little bit pricy for my taste though) and I'm loving it.</p>
+<p>In admin section of my repos some time ago I noticed unfamiliar term called 'Service Hooks' and decided to explore it. Service hooks are already prepared git post receive hooks for integration with other popular web services (<a href="https://help.github.com/articles/post-receive-hooks" target="_blank">description</a>) . Since I use <a href="https://trello.com/" target="_blank">Trello</a> for todo's on some of my pet projects I decided to connect this two webservices.</p>
+<p>For easier demonstration I opened a new <a href="https://github.com/msvrtan/testing-trello-integration/" target="_blank">github repo</a>, <a href="https://trello.com/board/testing-trello-github-integration/5083d2888fb535b871008eb2" target="_blank">Trello board</a> and connected them.</p>
+<p><img alt="Trello board for testing integration" src="http://www.mirosvrtan.me/blog/wp-content/uploads/2012/10/trello-board-for-testing-integration-with-github.png" width="500px" /></p>
+<p><img alt="github project for testing trello integration" src="http://www.mirosvrtan.me/blog/wp-content/uploads/2012/10/github-project-for-testing-trello-integration.png"  width="500px" /></p>
 <p>Now every new commit on master branch is shown in list 'Commits on master' and new pull requests in 'Pull requests'. It is really simple but effective way of tracking stuff to do on smaller projects, I hope to be able to test it very soon in a little bit larger environment though.</p>
 <p>It is really easy to setup, after allowing github to access your Trello account via token you can add new pull requests cards to different board then commit cards. It also features ignoring some commits from creation by tracking only master branch or by setting up regular expressions.</p>
-<p><img alt="Trello service hook form on github" src="http:&#47;&#47;www.mirosvrtan.me&#47;blog&#47;wp-content&#47;uploads&#47;2012&#47;10&#47;Screenshot.png" width="300px" &#47;></p>
-<p><em>Short guide with 4 steps is located under the form (not shown on screenshot here).<&#47;em></p>
-<p>One crucial thing missing here is integration of issues. It would be very helpful if issues could be sent too but this is something I'm currently testing with <a href="https:&#47;&#47;zapier.com&#47;" target="_blank">Zapier<&#47;a> (and much more but this will be subject for one of next posts :).</p>
+<p><img alt="Trello service hook form on github" src="http://www.mirosvrtan.me/blog/wp-content/uploads/2012/10/Screenshot.png" width="300px" /></p>
+<p><em>Short guide with 4 steps is located under the form (not shown on screenshot here).</em></p>
+<p>One crucial thing missing here is integration of issues. It would be very helpful if issues could be sent too but this is something I'm currently testing with <a href="https://zapier.com/" target="_blank">Zapier</a> (and much more but this will be subject for one of next posts :).</p>
 <p>Feel free to fork repository &amp; generate pull requests, this repository and board are used only for demonstration purposes!</p>

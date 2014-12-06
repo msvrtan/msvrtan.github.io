@@ -23,6 +23,6 @@ tags:
 - conference presentation
 comments: []
 ---
-<p>Although Aditya Agarwal's presentation is from 2010 we can learn a lot from them. Video is 60 minutes long&nbsp; and you can view it <a href="http:&#47;&#47;www.infoq.com&#47;presentations&#47;Scale-at-Facebook">here<&#47;a> together with the presentation.</p>
+<p>Although Aditya Agarwal's presentation is from 2010 we can learn a lot from them. Video is 60 minutes long&nbsp; and you can view it <a href="http://www.infoq.com/presentations/Scale-at-Facebook">here</a> together with the presentation.</p>
 <p>It is a real must see for all developers and tech managers..</p>
 <p>&nbsp;</p>

@@ -31,7 +31,7 @@ comments:
   author_url: ''
   date: '2013-01-29 14:42:54 +0000'
   date_gmt: '2013-01-29 13:42:54 +0000'
-  content: '"Do I like every PSR1&#47;2 fact? No, but really I don&rsquo;t care" -
+  content: '"Do I like every PSR1/2 fact? No, but really I don&rsquo;t care" -
     I''m glad to hear I''m not the only one who feels this way. People spend way too
     much time obsessing about coding standards. Really, style should be the least
     of our concerns, with tools available to change the style so rapidly. We have
@@ -47,7 +47,7 @@ comments:
     powerful, boot time is instant, editing commands is highly tweaked and it will
     be the same software for all the languages you code in.\r\n\r\nThat being said,
     Fabien Potencier (creator of Symfony) had made a little tool that format code
-    againt PSR1&#47;2. Simply add it as a pre-commit hook and it's a done deal. https:&#47;&#47;github.com&#47;fabpot&#47;PHP-CS-Fixer"
+    againt PSR1/2. Simply add it as a pre-commit hook and it's a done deal. https://github.com/fabpot/PHP-CS-Fixer"
 - id: 3497
   author: Matt
   author_email: a@a.com
@@ -109,7 +109,7 @@ comments:
     to consider Eclipse, it's way too slow) and the newest RC of version 7.3 looks
     promising, and is closing the gap with PHPStorm in terms of speed and standard
     features.\r\n\r\nAnother thing with IDEs (some advanced text editors do it too)
-    is that they can automatically detect and match braces&#47;tags, and gives you
+    is that they can automatically detect and match braces/tags, and gives you
     visual clues to them, some even allow collapsing braces and tags, I use that feature
     to check that my braces and tags are closed correctly, although that rarely happens
     now since I create braces and tags in their opening and closing pairs all the
@@ -144,12 +144,12 @@ comments:
   date_gmt: '2014-10-17 11:01:26 +0000'
   content: "Valuable info. Lucky me I found your website unintentionally, and I am
     surprised why this coincidence did not took place earlier! I bookmarked it.\r\nChristian
-    Louboutin Sale http:&#47;&#47;vi.sualize.us&#47;christian_altadama_140mm_peep_toe_pumps_pink_factory_sale_store_shoes_christian_louboutin_style_fashion_picture_KxaT.html"
+    Louboutin Sale http://vi.sualize.us/christian_altadama_140mm_peep_toe_pumps_pink_factory_sale_store_shoes_christian_louboutin_style_fashion_picture_KxaT.html"
 ---
 <p>In last 14 years working as a PHP developer I changed few coding standards. Often for better but not always, reinventing that wheel over and over. For the better part of those 14 years I was working as a one-man-band so changing coding standards was not hard but when I started working in team everything changed. Although we had some coding guidelines, everything else was done on per developer basis which made some projects a total mess.</p>
 <p>Why? Developer A would use spaces and then developer B would add new features or bug-fixes using tabs as indent which looked all OK on his IDE of choice. Then developer C would come and change something else using spaces again and it all looked ok for him. Then it was my turn, instead of 8 spaces for tab I use 4 and code looked broken. I couldn't match opening and closing brackets properly so I often closed wrong braces, moved else or added if to unknown territory. For years I was using very popular IDE that had no option of reformatting code so I had too use another IDE only for code reformatting when this happened. As this second IDE was too bloated and slow for me code formating was not done if it was not really needed.</p>
-<p>One friend recommended a bright new and very powerful IDE called <a href="http:&#47;&#47;www.jetbrains.com&#47;phpstorm&#47;" target="_blank"> PHPStorm <&#47;a> so I decided to try it out. Though this new IDE doesn't support some of the features I got used to I discovered how powerful their code formatting feature was. Soon after I noticed that having any discussion about code formatting was futile. I just didn't care if I was using spaces or tabs, curly braces in-line, number of spaces inside brackets etc as long as I had option to reformat my code after I wrote it and before committing it. Instead of writing my code clean, indented, with 1 space here and no space there, now I was able to focus on writing the code itself, focusing on what code does and not how it looks. This really liberated me!</p>
-<p>Why did I share this with you? Well I noticed that lot of people have been unhappy with new PSR1&#47;2 coding standards. Changing habits is always hard, using one coding standard for years and then switching to some other can be hard if you are not using proper tools. Do I like every PSR1&#47;2 fact? No, but really I don't care. And I don't need to care. PSR1&#47;2 have good readability and since I downloaded already prepared code formatter for PSR1&#47;2 I had no problem to write all of my code in this new standard without any context switching in my head.</p>
+<p>One friend recommended a bright new and very powerful IDE called <a href="http://www.jetbrains.com/phpstorm/" target="_blank"> PHPStorm </a> so I decided to try it out. Though this new IDE doesn't support some of the features I got used to I discovered how powerful their code formatting feature was. Soon after I noticed that having any discussion about code formatting was futile. I just didn't care if I was using spaces or tabs, curly braces in-line, number of spaces inside brackets etc as long as I had option to reformat my code after I wrote it and before committing it. Instead of writing my code clean, indented, with 1 space here and no space there, now I was able to focus on writing the code itself, focusing on what code does and not how it looks. This really liberated me!</p>
+<p>Why did I share this with you? Well I noticed that lot of people have been unhappy with new PSR1/2 coding standards. Changing habits is always hard, using one coding standard for years and then switching to some other can be hard if you are not using proper tools. Do I like every PSR1/2 fact? No, but really I don't care. And I don't need to care. PSR1/2 have good readability and since I downloaded already prepared code formatter for PSR1/2 I had no problem to write all of my code in this new standard without any context switching in my head.</p>
 <p>I noticed that lot of PHP developers are using editors or IDE's without code formatting options. Switching thousands of lines of code manually and forcing your self to learn new coding rules is just too painful. I did it once and never again. I know developers often despise IDE's since they can be bloated or too slow for what they are used to but this is not the case for all of them. Try PHPStorm, it has a 30 day trial, works on Windows, Linux and Mac OS X so there are really no excuses :)</p>
 <p>If you know of other IDE's having powerful code formatter please feel free to comment, all feedback is greatly appreciated!</p>
 <p>**UPDATE**</p>

@@ -27,15 +27,15 @@ comments: []
 <p>There are 2 possibilities how to do it:</p>
 <p>1) Create local mirror repo (if you clone push will work only on branches you checked out here)</p>
 <pre lang="bash">cd some-folder<br />
-git clone --mirror git@example.com&#47;my-main-repo.git<br />
+git clone --mirror git@example.com/my-main-repo.git<br />
 cd my-main-repo<br />
-git remote add github git@github.com:my-username&#47;my-new-main-repo.git<br />
-git push github --all<&#47;pre><br />
+git remote add github git@github.com:my-username/my-new-main-repo.git<br />
+git push github --all</pre><br />
 2) Directly from bare remote repo</p>
 <pre lang="bash">ssh example.com<br />
 cd my-main-repo.git<br />
-git remote add github git@github.com:my-username&#47;my-new-main-repo.git<br />
+git remote add github git@github.com:my-username/my-new-main-repo.git<br />
 git push github --all<br />
-git remote rm github<&#47;pre><br />
+git remote rm github</pre><br />
 I went with idea #2 since our server has much better internet connection then my home desktop but idea #1 is great one if you are not able to ssh yourself to remote server (lets say you want to transfer from bitbucket, assembla or github anywhere).</p>
 <p>Just a notice that this is not github feature, it will work everywhere :)</p>

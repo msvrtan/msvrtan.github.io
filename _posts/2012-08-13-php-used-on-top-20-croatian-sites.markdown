@@ -59,9 +59,9 @@ comments:
   date: '2012-09-04 10:09:24 +0000'
   date_gmt: '2012-09-04 10:09:24 +0000'
   content: "I also highly recommend Chrome Sniffer for detecting web and JS frameworks
-    and stuff:\r\nhttps:&#47;&#47;chrome.google.com&#47;webstore&#47;detail&#47;homgcnaoacgigpkkljjjekpignblkeae"
+    and stuff:\r\nhttps://chrome.google.com/webstore/detail/homgcnaoacgigpkkljjjekpignblkeae"
 ---
-<p>I was wondering how important and popular PHP is in Croatian web development circles so I decided to go through list of 20 most popular croatian webs using <a href="http:&#47;&#47;www.audience.com.hr&#47;pages&#47;display&#47;reach" target="_blank"> gemius audience <&#47;a> list to locate sites using it.</p>
+<p>I was wondering how important and popular PHP is in Croatian web development circles so I decided to go through list of 20 most popular croatian webs using <a href="http://www.audience.com.hr/pages/display/reach" target="_blank"> gemius audience </a> list to locate sites using it.</p>
 <p>In first 10 websites there are 5 of them (njuskalo.hr, dnevnik.hr, forum.hr, vecernji.hr & coolinarika.com ) and in the next 10 there are 5 more (blog.hr, show.hr, rtl.hr, igre123.net & moj-posao.net). 50%? Thats really a lot. </p>
 <p>Other websites are using:</p>
 <p>- Microsoft stack (index.hr, tportal.hr, bloger.hr, slobodnadalmacija.hr, mojtv.hr, bug.hr ),<br />

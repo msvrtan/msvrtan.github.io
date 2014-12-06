@@ -41,7 +41,7 @@ comments:
     \   {\r\n    }\r\n \r\n    public static function getInstance($instance = null)\r\n
     \   {\r\n\t\tif (\\array_key_exists($instance, static::$instances))\r\n\t\t{\r\n\t\t\treturn
     static::$instances[$instance];\r\n\t\t}\r\n\t\tstatic::$instances[$instance] =
-    new static();\r\n\t\treturn static::$instances[$instance];\r\n    }\r\n \r\n}\r\n<&#47;pre>"
+    new static();\r\n\t\treturn static::$instances[$instance];\r\n    }\r\n \r\n}\r\n</pre>"
 - id: 103
   author: tere&scaron;ko
   author_email: martins.teresko@gmail.com
@@ -54,7 +54,7 @@ comments:
 ---
 <p>Why singleton? Idea is to limit number of instances of a desired class, you don't want to have 4 connections to your DB server or 3 instances of session. First one you can but you dont want to do since resources are usually very limited and second one can create bunch of problems in logic.</p>
 <p>In the good old days (actually older versions of PHP), developers used global variables to achieve this but that instantiated whole bunch of new problems. So how to do this?</p>
-<p>I decided to create a simple session singleton class (this code here is stripped down only to show singleton related logic, the whole class can be found <a href="https:&#47;&#47;github.com&#47;msvrtan&#47;xmpl&#47;blob&#47;master&#47;SingletonSimple&#47;Session.singleton.php" target="_blank">here<&#47;a>):</p>
+<p>I decided to create a simple session singleton class (this code here is stripped down only to show singleton related logic, the whole class can be found <a href="https://github.com/msvrtan/xmpl/blob/master/SingletonSimple/Session.singleton.php" target="_blank">here</a>):</p>
 <pre lang="php" line="1">
 <p>class SessionSingleton<br />
 {</p>
@@ -70,15 +70,15 @@ comments:
 <p>        return static::$instance;<br />
     }</p>
 <p>}<br />
-<&#47;pre></p>
-<p><strong>Key singleton features<&#47;strong>:</p>
+</pre></p>
+<p><strong>Key singleton features</strong>:</p>
 <p>1) Constructor is marked as protected so any instantiation would cause a fatal error: "PHP Fatal error:&nbsp; Call to protected SessionSingleton::__construct() from invalid context in .."</p>
 <pre lang="php" line="1">
 $obj = new SessionSingleton();<br />
-<&#47;pre></p>
+</pre></p>
 <p>2) Method getInstance() is here to instantiate SessionSingleton class only on first call and return already instantiated object every other time. Here is proper way to get object:</p>
 <pre lang="php" line="1">
 $obj = SessionSingleton::getInstance();<br />
-<&#47;pre></p>
+</pre></p>
 <p>3) Static instance property is a placeholder where single instance of SessionSingleton will be 'saved' for future reuse and it is marked protected so no outside code could for instance delete it.</p>
-<p>I've created a <a href="https:&#47;&#47;github.com&#47;msvrtan&#47;xmpl&#47;blob&#47;master&#47;SingletonSimple&#47;index.php" target="_blank">short script<&#47;a> where you can see how multiple calls to SessionSingleton::getInstance() behave. There you can see that changing property in one of them will influence other one since both variables use same object instance.</p>
+<p>I've created a <a href="https://github.com/msvrtan/xmpl/blob/master/SingletonSimple/index.php" target="_blank">short script</a> where you can see how multiple calls to SessionSingleton::getInstance() behave. There you can see that changing property in one of them will influence other one since both variables use same object instance.</p>
