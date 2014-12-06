@@ -21,19 +21,8 @@ tags:
 - php
 - optimization
 - performance
-comments:
-- id: 30
-  author: Milan Popovic
-  author_email: komita1981@gmail.com
-  author_url: http://www.milanpopovic.me
-  date: '2012-06-27 19:43:31 +0000'
-  date_gmt: '2012-06-27 19:43:31 +0000'
-  content: "Excellent post. I tried your examples and played little with it. I got
-    different result - execute faster but gets more memory. As we can see, using your
-    results, concept \"everything is an object\" cost a lot. That's a reason why some
-    frameworks are slower (like Zend for example).\r\n\r\nArticle is good written
-    but you can embed some code inside it for clarity. You can also add some graphics
-    or tabular data."
+comments: []
+permalink: /blog/2012/06/performance-of-different-php-class-implementations/
 ---
 <h2>Introduction</h2><br />
 There are few types of class implementations used in PHP and I wanted to see how will they effect performance on such a low level.</p>

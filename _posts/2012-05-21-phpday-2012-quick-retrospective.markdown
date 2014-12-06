@@ -21,15 +21,8 @@ tags:
 - php
 - phpday
 - Verona
-comments:
-- id: 2
-  author: Luka Muzinic
-  author_email: luka@muzinic.net
-  author_url: http://luka.muzinic.net/
-  date: '2012-05-22 09:15:32 +0000'
-  date_gmt: '2012-05-22 09:15:32 +0000'
-  content: You could write another post with links to presentation slides of talks
-    that are worth checking out?
+comments: []
+permalink: /blog/2012/05/phpday-2012-quick-retrospective/
 ---
 <p>This was my first international and PHP conference and I'm so happy that I was able to go. Unfortunately in Zagreb (and region) where I live there are no developer conferences at all, so when I found out about PHPDay in Verona (~500km from Zagreb by car) I was really thrilled.</p>
 <p>It was so sad to work with PHP for more then a decade a not have even a chance to visit some conference sooner, a common problem when working in a small company or freelancing like I was for a number of years. This event was so inspiring that after next PHP conference I will try to take at least a week off work to play around with all the technologies, tips, tricks &amp; suggestions :)</p>

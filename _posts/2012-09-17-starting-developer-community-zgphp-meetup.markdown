@@ -19,6 +19,7 @@ categories:
 - zgphp
 tags: []
 comments: []
+permalink: /blog/2012/09/starting-developer-community-zgphp-meetup/
 ---
 <p>The year 2011 was a great success for developer communities in Zagreb. Although mobile developers started in 2010 with Mobile Monday, web developers were a bit shy and Ruby developers started first, then python meetups started and in the summer few people urged/pushed me to start organizing PHP Meetups.</p>
 <p>Besides&nbsp;colleagues I did not know a lot of PHP developers so I needed to spread the word about it. Twitter was the first step and it paid off. With only a few retweets there were already 10-20 people interested. Well then we got into trouble of needing a place to discuss where and when to meet. Since one social network showed me such success I've decided to use Facebook groups. Somewhere around that time a popular internet site <a href="http://www.rep.hr" target="_blank">rep.hr</a> published an article about us and we got much needed publicity.</p>

@@ -24,6 +24,7 @@ tags:
 - zgphp
 - zgphp mini conference
 comments: []
+permalink: /blog/2013/10/zgphp-mini-conference-2013/
 ---
 <p>As a culmination of a very busy 2012/2013 ZgPHP meetup season and a two year anniversary of ZgPHP meetups we decided to organize a <a href="http://2013.zgphp.org/?utm_source=mirosvrtan.me" target="_blank">PHP conference </a>, a first in South East Europe. With&nbsp;experience gathered organizing last years <a href="http://2012.webcampzg.org/?utm_source=mirosvrtan.me" target="_blank">WebCamp Zagreb</a>, our main goal was attracting regional speakers and attendees. Why? As our regular meetups are on Thursday evenings, speakers outside of Zagreb are hard to get by, while attendees living outside Zagreb don't have that much opportunity to meet fellow developers.</p>
 <p>Saturday is a great day for having a conference, developers wanting to come are not limited by their company policies (yes not all web development companies have culture of sending their developers to eduction and/or conferences) while "avoiding" unmotivated people that would come just so they would not be at the office that day. Yes we know that this is not a perfect arrangement, but it is the best one in current circumstances.</p>

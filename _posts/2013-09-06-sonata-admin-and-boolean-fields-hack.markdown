@@ -21,6 +21,7 @@ tags:
 - symfony2
 - SonataAdmin
 comments: []
+permalink: /blog/2013/09/sonata-admin-and-boolean-fields-hack/
 ---
 <p>If you are using Sonata Admin Bundle (SonataAdminBundle) and want to support persisted boolean fields you will have to define that property in your Entity as <strong>nullable</strong>.</p>
 <pre lang="php">    /**<br />

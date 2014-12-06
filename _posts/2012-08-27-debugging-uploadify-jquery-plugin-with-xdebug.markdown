@@ -21,14 +21,8 @@ tags:
 - php
 - xdebug
 - uploadify
-comments:
-- id: 5026
-  author: Robertas
-  author_email: robertasjasmontas@gmail.com
-  author_url: ''
-  date: '2013-07-25 10:41:36 +0000'
-  date_gmt: '2013-07-25 09:41:36 +0000'
-  content: Great post ! You have saved a lot of my time :)
+comments: []
+permalink: /blog/2012/08/debugging-uploadify-jquery-plugin-with-xdebug/
 ---
 <p>If you ever decided to use <a href="http://www.uploadify.com" target="_blank"> Uploadify </a> jQuery plug-in you might have noticed problems with debugging remote PHP code that this plugin relies on. We all usually do our web development in Firefox ( <a href="https://addons.mozilla.org/en-us/firefox/addon/firebug/" target="_blank"> Firebug </a> rules! ) we started to use <a href="https://addons.mozilla.org/en-us/firefox/addon/easy-xdebug/" target="_blank"> Easy xdebug </a> plug-in to easily turn on/off xdebug. This plug-in works by setting cookies for current domain, you can turn it on/off quickly (it is located in bottom right corner) so every request to PHP source while this plug-in is turned on will start a new xdebug session. Great tool for fast debugging of server side code!</p>
 <p>Unfortunately setting this up will not work with Uploadify Flash version since calls to remote server side is not done inside browser but inside flash plugin. This is sometimes a nightmare because adding new features or bug fixing some edge cases is a nightmare. You can help yourself by building another form that will use same API but it takes time and energy.</p>

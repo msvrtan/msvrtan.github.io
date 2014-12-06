@@ -24,6 +24,7 @@ tags:
 - speaker
 - session
 comments: []
+permalink: /blog/2013/10/speaking-at-webcamp-zagreb-2013-php-renaissance/
 ---
 <p>On this years <a href="http://2013.webcampzg.org" target="_blank">WebCamp Zagreb</a> I will be talking about <a href="http://2013.webcampzg.org/speakers/miro-svrtan/" target="_blank">renaissance happening in PHP world</a> in last few years. Originally I wanted to submit this talk last year but I haven't found enough time to prepare it.</p>
 <p>Though my slides will be in English, I will be talking in Croatian (forcing my conversational English would be a bit too much). As WebCamp Zagreb is expected to have more then 500 attendees this year, coming from different server-side languages, hopefully there will be a lot of people interested to hear how PHP is not that ugly duckling any more.</p>

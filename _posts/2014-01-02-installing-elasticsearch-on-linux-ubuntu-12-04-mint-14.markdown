@@ -22,6 +22,7 @@ tags:
 - search
 - devops
 comments: []
+permalink: /blog/2014/01/installing-elasticsearch-on-linux-ubuntu-12-04-mint-14/
 ---
 <p>Since Oracle Java is not shipped with Debian based distributions due to licencing issues, you must setup it manually via PPA repositories.</p>
 <pre lang="bash">

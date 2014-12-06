@@ -19,6 +19,7 @@ categories:
 - personal
 tags: []
 comments: []
+permalink: /blog/2014/04/joining-zizoo-boats/
 ---
 <p>I've been offered a chance to be a part of great new startup called Zizoo Boats. I love the idea, team is nothing short of great (very well rounded team), while being located in Zagreb project is targeting global market. </p>
 <p>Decision to leave Njuskalo, after 5 years building it into what it is now, was hard to come by. I'we always felt a very deep and personal connection to the project, happy to be a part of the team and probably most important: enjoying every single day. </p>

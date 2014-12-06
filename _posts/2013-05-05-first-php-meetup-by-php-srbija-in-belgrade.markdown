@@ -23,6 +23,7 @@ tags:
 - belgrade
 - meetup
 comments: []
+permalink: /blog/2013/05/first-php-meetup-by-php-srbija-in-belgrade/
 ---
 <p>Last Sunday (April 28th 2013) was IMHO a crucial day for PHP community in Belgrade (&amp; Serbia too), a first <a href="http://meetup.phpsrbija.rs/" target="_blank">PHP meetup</a> was organized by <a href="http://phpsrbija.rs/" target="_blank">PHP Srbija</a> developer community. With gathering of more then 250 developers this proved to be a much needed event there and congratulations to organizers for doing it. As a organizer of similar (but much smaller) PHP community in Zagreb I was in constant contact with organizers and was very happy when we were invited to join them on this occasion, especially when they approved my proposal to talk about Laravel4 there.</p>
 <p>Above anybody's expectations, as local media picked up story about first PHP meetup in Belgrade, organizers were forced to find a much larger venue in the last moment: <a href="http://www.domomladine.org/" target="_blank">Dom omladine</a>. Hall located in heart of Belgrade (2 minute walk from Terazije) already hosted some great events in the past and it is one of few places in city center that can host event of this size. Yes there were some problems about air-conditioning/ventilation but those problems we're not organizers fault. Organizers actually did a great job, finding a larger venue at last moment is no easy task especially taking in consideration that they were organizing their first event of any kind. Great job gals &amp; guys!</p>

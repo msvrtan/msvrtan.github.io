@@ -20,35 +20,8 @@ categories:
 tags:
 - php
 - laravel4
-comments:
-- id: 4193
-  author: Boris Strahija
-  author_email: boris@creolab.hr
-  author_url: ''
-  date: '2013-03-31 21:53:39 +0000'
-  date_gmt: '2013-03-31 20:53:39 +0000'
-  content: Looking forward to the L4 session ;)
-- id: 4250
-  author: 'Laravel 4 learnings: week 4 | Dries Vints'
-  author_email: ''
-  author_url: http://driesvints.com/blog/laravel-4-learnings-week-4/
-  date: '2013-04-07 22:05:22 +0000'
-  date_gmt: '2013-04-07 21:05:22 +0000'
-  content: "[...] Laravel 4 &ndash; Introduction by&nbsp;Miro Svrtan [...]"
-- id: 4317
-  author: Chris
-  author_email: chris@buffalozoomedia.co.uk
-  author_url: ''
-  date: '2013-04-24 16:30:45 +0000'
-  date_gmt: '2013-04-24 15:30:45 +0000'
-  content: When will they be releasing a stable version of Laravel 4?
-- id: 4360
-  author: msvrtan
-  author_email: miro@mirosvrtan.me
-  author_url: http://www.mirosvrtan.me/
-  date: '2013-05-05 21:09:14 +0000'
-  date_gmt: '2013-05-05 20:09:14 +0000'
-  content: "@Chris: sorry for a late reply, it is supposed to be at end of May (2013)"
+comments: []
+permalink: /blog/2013/03/laravel-4-introduction/
 ---
 <p>After years of working in a company using inhouse framework, before switching jobs I decided to expand my knowledge and find a new framework I will base my projects on.</p>
 <p>Zend and Yii frameworks were between versions, some older frameworks have been ruled out since I didn't want to use something that supports PHP < 5.3 (this means they don't use features like namespacing). Symfony 2 looked as something I will go with until I've heard lot of great things about Laravel's new version architecture being built using composer and code from other frameworks/libraries. I decided to check it out.</p>

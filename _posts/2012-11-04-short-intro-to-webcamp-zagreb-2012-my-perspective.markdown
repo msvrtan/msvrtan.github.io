@@ -23,6 +23,7 @@ tags:
 - zagreb
 - event
 comments: []
+permalink: /blog/2012/11/short-intro-to-webcamp-zagreb-2012-my-perspective/
 ---
 <p>WebCamp in Zagreb</p>
 <p>In less then 20 days, Zagreb will have first web developer conference organized by mutliple web developer groups:</p>

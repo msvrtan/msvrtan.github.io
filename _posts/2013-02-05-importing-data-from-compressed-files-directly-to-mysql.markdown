@@ -21,14 +21,8 @@ tags:
 - mysql
 - tips and tricks
 - linux
-comments:
-- id: 4194
-  author: Edvin
-  author_email: edvin.gacina@gmail.com
-  author_url: ''
-  date: '2013-03-31 23:23:43 +0000'
-  date_gmt: '2013-03-31 22:23:43 +0000'
-  content: you should try pixz to speed things up :) https://github.com/vasi/pixz
+comments: []
+permalink: /blog/2013/02/importing-data-from-compressed-files-directly-to-mysql/
 ---
 <p>This is a neat trick for directly importing compressed MySQL dump files into MySQL</p>
 <p>&nbsp;</p>

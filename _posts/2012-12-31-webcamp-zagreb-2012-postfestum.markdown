@@ -19,6 +19,7 @@ categories:
 - webcamp
 tags: []
 comments: []
+permalink: /blog/2012/12/webcamp-zagreb-2012-postfestum/
 ---
 <p>This post is a bit overdue, little more then a month passed from conference but I wanted to gather my thoughts &amp; feelings before writing this.</p>
 <p>In my opinion first occurance of <a href="http://webcampzg.org" target="_blank">WebCamp Zagreb</a> was a great success. We had little over 230 attendees listening to 24 sessions organized in 2 tracks and few days ago we published videos since all sessions were recorded.</p>

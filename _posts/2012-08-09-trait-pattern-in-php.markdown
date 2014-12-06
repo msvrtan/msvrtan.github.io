@@ -22,6 +22,7 @@ tags:
 - design patterns
 - intermediate
 comments: []
+permalink: /blog/2012/08/trait-pattern-in-php/
 ---
 <h1>Trait pattern description</h1><br />
 Instead of trying to explain traits myself I will use PHP manual and wikipedia descriptions:</p>

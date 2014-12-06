@@ -21,36 +21,8 @@ tags:
 - php
 - design patterns
 - intermediate
-comments:
-- id: 95
-  author: damir
-  author_email: damir.svrtan@gmail.com
-  author_url: ''
-  date: '2012-08-10 06:17:23 +0000'
-  date_gmt: '2012-08-10 06:17:23 +0000'
-  content: isti primjer koji si i meni rekao prije pol godine :)
-- id: 97
-  author: Milan Popovic
-  author_email: komita1981@gmail.com
-  author_url: http://www.milanpopovic.me
-  date: '2012-08-10 13:32:48 +0000'
-  date_gmt: '2012-08-10 13:32:48 +0000'
-  content: "There is one more similar pattern known as Multiton. Multiton adds named
-    instances to singleton. In your example that would be\r\n\r\n<pre>\r\nclass SessionMultiton\r\n{\r\n
-    \r\n    protected static $instances;\r\n \r\n    protected function __construct()\r\n
-    \   {\r\n    }\r\n \r\n    public static function getInstance($instance = null)\r\n
-    \   {\r\n\t\tif (\\array_key_exists($instance, static::$instances))\r\n\t\t{\r\n\t\t\treturn
-    static::$instances[$instance];\r\n\t\t}\r\n\t\tstatic::$instances[$instance] =
-    new static();\r\n\t\treturn static::$instances[$instance];\r\n    }\r\n \r\n}\r\n</pre>"
-- id: 103
-  author: tere&scaron;ko
-  author_email: martins.teresko@gmail.com
-  author_url: ''
-  date: '2012-08-15 07:26:32 +0000'
-  date_gmt: '2012-08-15 07:26:32 +0000'
-  content: Another stupid article from people  who, instead of learning object oriented
-    programming and dependency injections, decide "oh , i will just use global state
-    here". Congratulation of popularizing the use of anti-patterns,
+comments: []
+permalink: /blog/2012/08/singleton-pattern-in-php/
 ---
 <p>Why singleton? Idea is to limit number of instances of a desired class, you don't want to have 4 connections to your DB server or 3 instances of session. First one you can but you dont want to do since resources are usually very limited and second one can create bunch of problems in logic.</p>
 <p>In the good old days (actually older versions of PHP), developers used global variables to achieve this but that instantiated whole bunch of new problems. So how to do this?</p>

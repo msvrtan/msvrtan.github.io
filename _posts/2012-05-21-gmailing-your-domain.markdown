@@ -23,6 +23,7 @@ tags:
 - email
 - bussiness
 comments: []
+permalink: /blog/2012/05/gmailing-your-domain/
 ---
 <p>I have been using gmail for quite a long number of years and decided last year to use 'Google Apps for bussiness' to test my work email in google's environment and it is really great. Here are just only some of the reasons:</p>
 <p><strong>Automatic email filtering</strong></p>

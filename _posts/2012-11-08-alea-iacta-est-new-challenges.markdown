@@ -19,6 +19,7 @@ categories:
 - personal
 tags: []
 comments: []
+permalink: /blog/2012/11/alea-iacta-est-new-challenges/
 ---
 <p>After spending great 3,5 years in Trikoder, I've decided to move on. A lot of people will probably ask if those 3,5 years were so great why are you going? Well first off, it was a hard decision for me to make while only reason is: new challenges.</p>
 <p>Although I started programming PHP back in 1999, before Trikoder I was working for about 5 years as a one man band web developer while studying for university degree so Trikoder is my first professional development working expirence. So I started as a junior developer, became a senior dev and for last 18 months I was team leader and lead developer. Besides learning a lot about programming and software architecture from Vedran (Trikoder CTO) and other fellow developers, I upgraded a lot of my soft skills: communication, education, organization and motivation. Since we are a small company I was also project manager on multiple occasions, mainly on projects I was developing but even on one big where I wrote like 100 lines of code but had to manage a team of 8 people (PHP &amp; frontend developers, designers) for a foreign client.</p>

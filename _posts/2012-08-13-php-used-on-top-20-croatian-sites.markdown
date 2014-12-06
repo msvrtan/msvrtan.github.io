@@ -19,47 +19,8 @@ categories:
 - php
 tags:
 - php
-comments:
-- id: 101
-  author: Kresimir Jurasovic
-  author_email: krjura@yahoo.co.uk
-  author_url: ''
-  date: '2012-08-14 08:10:10 +0000'
-  date_gmt: '2012-08-14 08:10:10 +0000'
-  content: Odakle si pokupio informacije o kori&scaron;tenim tehnologijama?
-- id: 102
-  author: msvrtan
-  author_email: miro@mirosvrtan.me
-  author_url: http://www.mirosvrtan.me/
-  date: '2012-08-14 16:39:05 +0000'
-  date_gmt: '2012-08-14 16:39:05 +0000'
-  content: "Quoting last paragraph:\r\n\r\nTo gather this statistics, for some of
-    the sites I already knew what technology they use, for some of them it was enough
-    to read file extensions in URL&rsquo;s and for the rest of them I used firebug
-    to read response headers."
-- id: 105
-  author: seven
-  author_email: seven@nivas.hr
-  author_url: http://www.nivas.hr
-  date: '2012-08-15 12:14:07 +0000'
-  date_gmt: '2012-08-15 12:14:07 +0000'
-  content: Excellent article mate. We are giving our contribution to the share of
-    PHP. :)
-- id: 287
-  author: Ivan Ilijasic
-  author_email: ivan.ilijasic@gmail.com
-  author_url: http://www.flashr.org
-  date: '2012-09-03 20:16:30 +0000'
-  date_gmt: '2012-09-03 20:16:30 +0000'
-  content: Great article ;)
-- id: 291
-  author: Zlatko
-  author_email: zladuric@gmail.com
-  author_url: ''
-  date: '2012-09-04 10:09:24 +0000'
-  date_gmt: '2012-09-04 10:09:24 +0000'
-  content: "I also highly recommend Chrome Sniffer for detecting web and JS frameworks
-    and stuff:\r\nhttps://chrome.google.com/webstore/detail/homgcnaoacgigpkkljjjekpignblkeae"
+comments: []
+permalink: /blog/2012/08/php-used-on-top-20-croatian-sites/
 ---
 <p>I was wondering how important and popular PHP is in Croatian web development circles so I decided to go through list of 20 most popular croatian webs using <a href="http://www.audience.com.hr/pages/display/reach" target="_blank"> gemius audience </a> list to locate sites using it.</p>
 <p>In first 10 websites there are 5 of them (njuskalo.hr, dnevnik.hr, forum.hr, vecernji.hr & coolinarika.com ) and in the next 10 there are 5 more (blog.hr, show.hr, rtl.hr, igre123.net & moj-posao.net). 50%? Thats really a lot. </p>

@@ -22,6 +22,7 @@ tags:
 - development
 - github
 comments: []
+permalink: /blog/2012/08/transfering-remote-git-repos/
 ---
 <p>When we switched from SVN to GIT we decided to have one central repo to ease workflow to developers (extra complexity with everyone having forked remote repo would have been to much at that point). Today I had to copy that main repo to github but it had >50 branches and there was no way I would clone this repo and push branch by branch. I'm just too lazy :) Next idea was to generate a shell script doing this but I was hoping to find some better solution. And I found it. It is '--all' option on push!</p>
 <p>There are 2 possibilities how to do it:</p>

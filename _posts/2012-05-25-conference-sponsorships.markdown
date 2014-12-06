@@ -20,6 +20,7 @@ categories:
 tags:
 - conference
 comments: []
+permalink: /blog/2012/05/conference-sponsorships/
 ---
 <p>I don't like sponsorships, but I understand need and value they bring. Why I strongly dislike them on conferences? Usually they influence part of the content with sponsored talks/sessions. Their speakers might be great, their talks might be great but I always have a feel that they were chosen because they are sponsors. And what should I think if their talk or speaker was only OK? What if they were terrible?</p>
 <p>I belive all sponsors should be treated same and they shouldn't influence or shape content of the conference. I have nothing against those ads being plastered on the wall (if not in insane quantity), having information desks in hallways and so on...</p>

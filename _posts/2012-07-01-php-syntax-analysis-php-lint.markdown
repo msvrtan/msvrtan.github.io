@@ -23,6 +23,7 @@ tags:
 - better code
 - tools
 comments: []
+permalink: /blog/2012/07/php-syntax-analysis-php-lint/
 ---
 <p>&nbsp;</p>
 <p>On more then few occasions I found myself committing broken code to our git repository (and deploying it onto staging server) so I started to look into how to minimize chance of doing that. As we are a team of 10 PHP developers working continuosly on multiple projects this is something we desperately need.</p>

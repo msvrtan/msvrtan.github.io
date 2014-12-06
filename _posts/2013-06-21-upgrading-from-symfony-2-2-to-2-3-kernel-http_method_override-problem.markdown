@@ -21,15 +21,8 @@ tags:
 - php
 - symfony 2
 - sf 2.3
-comments:
-- id: 4874
-  author: Jorge
-  author_email: jorge.hernan@radmas.com
-  author_url: ''
-  date: '2013-07-04 08:47:04 +0000'
-  date_gmt: '2013-07-04 07:47:04 +0000'
-  content: "Hi. I got the same error, but it doesn't fix deleting cache.\r\n\r\nDo
-    you know how can i fix that?\r\n\r\nThanks !"
+comments: []
+permalink: /blog/2013/06/upgrading-from-symfony-2-2-to-2-3-kernel-http_method_override-problem/
 ---
 <p>After upgrading from Symfony 2.2 to 2.3, when I would try to purge production cache with</p>
 <p><code lang="php"><br />

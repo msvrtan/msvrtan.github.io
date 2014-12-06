@@ -25,6 +25,7 @@ tags:
 - how to
 - install
 comments: []
+permalink: /blog/2012/09/oracle-java-7-for-faster-phpstorm-on-ubuntu-linux/
 ---
 <p>
 Since PhpStorm works much faster with Oracle version of Java and Oracle JRE is not directly supported in Ubuntu here are 3 short steps how to get it:<br />

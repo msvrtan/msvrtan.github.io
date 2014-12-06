@@ -21,6 +21,7 @@ tags:
 - mysql
 - tips and tricks
 comments: []
+permalink: /blog/2012/10/removing-duplicated-records-in-mysql/
 ---
 <p>Colleague just pointed out cool way of removing duplicate entries in MySQL. We had a 'small' problem in one table where some records got duplicated since we forgot to add UNIQUE index.</p>
 <p>So if you want to remove from table "<strong>my_favorite_table</strong>" all duplicated records and add forgotten unique index use "<strong>ALTER IGNORE TABLE</strong>" instead of "<strong>ALTER TABLE</strong>":</p>
