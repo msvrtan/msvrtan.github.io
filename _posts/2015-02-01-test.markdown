@@ -1,6 +1,6 @@
 ---
 layout: post
-status: draft
+status: published
 published: false
 title: Test
 author:
