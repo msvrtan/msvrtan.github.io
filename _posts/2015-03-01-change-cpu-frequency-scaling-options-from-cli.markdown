@@ -19,7 +19,7 @@ permalink: /blog/2015/03/change-cpu-frequency-scaling-options-from-cli/
 
 Depending on what type of work I'm doing I use different CPU options. While there is no need to blast CPU while surfing or doing some undemanding tasks, when coding or testing I prefer to have CPU frequency high to speed things up.
 
-Until some time ago I used to modify CPU governor or frequency using GUI but decided to speed it up using command line. To have it done on Ubuntu based maschines you'll need to install 'linux-tools-common':
+Until some time ago I used to modify CPU governor or frequency using GUI but decided to switch to command line: one command instead of setting it up for each core using GUI (in my case 4 which means 8 clicks). To have it done on Ubuntu based maschines you'll need to install 'linux-tools-common':
 
 ```bash
   sudo apt-get install linux-tools-common
