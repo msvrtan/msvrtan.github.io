@@ -25,7 +25,7 @@ Until some time ago I used to modify CPU governor or frequency using GUI but dec
   sudo apt-get install linux-tools-common
 ```
 
-Instead of setting the exact frequency, I prefer to set governor. For instance 'performance' one will keep CPU on highest frequency while others (powersave,conservative and ondemand) will scale CPU frequency based on current CPU usage (more usage higher the frequency).
+Instead of setting the exact frequency, I prefer to set governor. For instance 'performance' one will keep CPU on highest frequency while others (powersave, conservative and ondemand) will scale CPU frequency based on current CPU usage (more usage higher the frequency).
   
 To get my maschine into performance mode:
 
