@@ -21,7 +21,7 @@ Depending on what type of work I'm doing I use different CPU options. While ther
 
 Until some time ago I used to modify CPU governor or frequency using GUI but decided to switch to command line: one command instead of setting it up for each core using GUI (in my case 4 which means 8 clicks). To have it done on Ubuntu based maschines you'll need to install 'linux-tools-common':
 
-```bash
+```
   sudo apt-get install linux-tools-common
 ```
 
@@ -29,20 +29,20 @@ Instead of setting the exact frequency, I prefer to set governor. For instance '
   
 To get my maschine into performance mode:
 
-```bash
+```
   sudo cpupower frequency-set -g performance
 ```
 
 To save battery or your monthly energy bill  
   
-```bash  
+```  
   sudo cpupower frequency-set -g powersave
 ```
 
 
 If you want to force exact frequency (example shows how to set frequency to 2Ghz)
 
-```bash  
+```  
   sudo cpupower frequency-set -f 20000000
 ```
 
