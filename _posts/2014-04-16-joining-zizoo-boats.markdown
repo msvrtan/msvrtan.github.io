@@ -1,7 +1,7 @@
 ---
 layout: post
 status: publish
-published: true
+published: false
 title: Joining Zizoo boats
 author:
   display_name: msvrtan
