@@ -4,14 +4,16 @@ title: About me
 permalink: /about-me/
 ---
 
-A 15 year veteran of PHP development, from being a one mand band web developer, via focusing on PHP development in a team environment to being a technical analyst. While focusing more on technical requirements of projects then how apps behave or look, I found opportunity to build/maintain/develop multiple large scale PHP projects. I founded [ZgPHP][zgphp], PHP user group based in Zagreb and [WebCamp Zagreb][wczg], a language agnostic web development conference held in Zagreb and organized by multiple user groups. 
+A 17 year veteran of PHP development, from being a one mand band web developer, via focusing on PHP development in a team environment to being a technical analyst. While focusing more on technical requirements of projects then how apps behave or look, I found opportunity to build/maintain/develop multiple large scale PHP projects. I founded [ZgPHP][zgphp], PHP user group based in Zagreb and [WebCamp Zagreb][wczg], a language agnostic web development conference held in Zagreb and organized by multiple user groups. 
+
+Daily TDD/BDD practicioner,
 
 Technologies:
 
 : developing in LAMP/LNMP stack (PHP,MySQL)
 : mostly using Symfony2 this days
-: siege for performance testing.
 : developing on vagrant with Ansible provisioning
+: doing ops too
 
 Favourite buzzwords:
 
