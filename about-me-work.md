@@ -15,6 +15,8 @@ Null Development 05/2014 ->
 : team lead
 : senior PHP developer
 
+Student, FER Zagreb 2004-2009
+
 Freelancer 2001-2005
 
 
