@@ -5,8 +5,8 @@ permalink: /about-me/work/
 ---
 
 
-Self-employed 05/2014 -> 
-: senior PHP developer (Symfony2),working as a remote team member in 2 different startups
+Null Development 05/2014 -> 
+: owner, senior PHP developer (Symfony2),working as a remote team member in 2 different startups
 
 [Njuškalo](http://www.njuskalo.hr/) 01/2013 - 05/2014
 : technical analyst
@@ -14,6 +14,10 @@ Self-employed 05/2014 ->
 [Trikoder](http://www.trikoder.hr/) 06/2009 - 12/2012
 : team lead
 : senior PHP developer
+
+Freelancer 2001-2005
+
+
 
 
 More [about me](/about-me/)
