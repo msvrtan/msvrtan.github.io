@@ -13,7 +13,17 @@ permalink: phpcon-poland-2016
 description: Visiting PHPCon Poland 2016 conference: Impressions
 ---
 
-A sample post to show how images are being rendered on harmony.
+After a 2 year conference speaking break, I continued my speakers road at the same place it stopped: PHPCon Poland. No, my break had nothing to do with the conference, it was just a coinsidence.
+
+My talk was comparison of (in my opinion) 3 most popular CI tools: Jenkins, Travis & Circle. Idea was to base the talk on case-study approach instead of head to head comparison, ending the talk with some pros/cons that I had personally to deal with. 
+
+As this was the first conference where I did this talk, amount of questions in the end was pretty overwhelming: Q&A part was ~10 min long but some little feedback I got was really good (mostly face to face one). Unfortunately, joind.in wasn't set up in time so I'm not expecting to get more feedback although I would really appreciate it (If you went to my talk on PHPCon Poland 2016, please give me feedback so I know if and what should be changed/added/dropped ).
+
+
+I submitted a workshop too: talking about BDD practices and how to model your domain using PHPSpec. This was my 3rd workshop and I'm now feeling more and more that is should be renamed from 'Hands on PHPSpec' to something else. While I love and adore PHPSpec, workshop is actually not about it, I'm only using it as a tool, to achieve a better model. It's more focused on team work, some software designs, patterns and practices, showing how to model using BDD. 
+
+From the start, workshop was not concepted to have people coding directly, I decided to be the code monkey to not loose to much time on everyone getting stuff done and trying to give attendees focus on why and how is happening instead of what.
+
 
 ### Image from external host
 
