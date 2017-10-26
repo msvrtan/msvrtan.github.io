@@ -5,10 +5,13 @@ permalink: /about-me/talks/
 ---
 
 ### Year with EventSourcing & CQRS
+- 2017/10/26 International PHP Conference 2017, Munich [Slides](https://slides.com/mirosvrtan/year-with-es-cqrs-ipc-2017-10-26/)
+- 2017/10/26 WebCamp Zagreb 2017 [Slides](http://slides.com/mirosvrtan/year-with-es-cqrs-webcamp-zagreb-2017-10-06#/) [Joindin](https://joind.in/talk/d1e95)
 - 2017/05/27 PHPSrbija 2017 Conference, Belgrade [Slides](http://slides.com/mirosvrtan/year-with-es-cqrs-php-srbija-2017-05-27#/) [Joindin](https://joind.in/talk/67342)
 - 2017/05/19 AFUP Tour 2017, Nantes [Slides](http://slides.com/mirosvrtan/year-with-es-cqrs-afp-tour-2017#/) [Joindin](https://joind.in/talk/b4f6b)
 
 ### Intro to EventSourcing & CQRS 
+- 2017/10/18 NYPHP meetup, New York [Slides](http://slides.com/mirosvrtan/intro-to-es-cqrs-nyphp-2017-10-18#/) [Joindin](https://joind.in/talk/5453d)
 - 2017/04/18 PHPSrbija meetup [Slides](http://slides.com/mirosvrtan/intro-to-es-cqrs-php-serbia-meetup#/) [Joindin](https://joind.in/talk/81efb)
 - 2017/03/16 ZgPHP meetup [Slides](http://slides.com/mirosvrtan/intro-to-es-cqrs-zgphp-2017-04#/) [Joindin](https://joind.in/talk/37010)
 
@@ -16,6 +19,7 @@ permalink: /about-me/talks/
 - 2016/10/29 WebCamp Zagreb 2016 [Video](https://www.youtube.com/watch?v=gF-SRvu1t5A) [Slides](http://slides.com/mirosvrtan/deck-11#/) [Joindin](https://joind.in/talk/29ee1)
 
 ### Jenkins vs Circle vs Travis
+- 2017/10/26 International PHP Conference 2017, Munich [Slides](http://slides.com/mirosvrtan/travis-vs-circle-vs-jenkins-ipc-2017-10-26#/)
 - 2016/10/08 PHP Bulgaria 2016 [Video](https://vimeo.com/188951577) [Slides](http://slides.com/mirosvrtan/travis-vs-circle-vs-jenkins-7-9#/) [Joindin](https://joind.in/talk/93d44)
 - 2016/10/01 PHPCon Poland 2016 [Video](https://vimeo.com/197082490) [Slides](http://slides.com/mirosvrtan/travis-vs-circle-vs-jenkins-7#/) [Joindin](https://joind.in/talk/99bca)
 - 2016/09/15 ZgPHP meetup [Slides](http://slides.com/mirosvrtan/travis-vs-circle-vs-jenkins#/)
