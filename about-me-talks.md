@@ -4,7 +4,17 @@ title: Talks
 permalink: /about-me/talks/
 ---
 
+### When testing makes no sense
+- 2018/06/08 DPC 2018 *TODO*
+- 2018/05/26 PHP Serbia 2018, Belgrade [Slides](https://slides.com/mirosvrtan/when-testing-makes-no-sense-belgrade-phpsrbija2018/) [Joindin](https://joind.in/event/php-serbia-conference-2018/when-testing-makes-no-sense)
+- 2018/03/08 PHP Slovenia meetup, Ljubljana [Slides](https://slides.com/mirosvrtan/when-testing-makes-no-sense-ljubljana-2018-03-08/)
+
+### Nitpicking terminology: are we using right terms?
+- 2018/04/07 Infinum server side talks, Zagreb [Slides](https://slides.com/mirosvrtan/nitpicking-terminology-server-side-talks/)
+- 2018/02/20 PHP Serbia meetup, Belgrade [Slides](https://slides.com/mirosvrtan/nitpicking-terminology-phpsrbija/)
+
 ### Year with EventSourcing & CQRS
+- 2018/01/27 PHP Benelux 2018, Antwerp [Slides](https://slides.com/mirosvrtan/year-with-es-cqrs-php-bnl-2018-01-27/) [Joindin](https://joind.in/event/phpbenelux-conference-2018/year-with-event-sourcing-and-cqrs)
 - 2017/10/26 International PHP Conference 2017, Munich [Slides](https://slides.com/mirosvrtan/year-with-es-cqrs-ipc-2017-10-26/)
 - 2017/10/26 WebCamp Zagreb 2017 [Slides](http://slides.com/mirosvrtan/year-with-es-cqrs-webcamp-zagreb-2017-10-06#/) [Joindin](https://joind.in/talk/d1e95)
 - 2017/05/27 PHPSrbija 2017 Conference, Belgrade [Slides](http://slides.com/mirosvrtan/year-with-es-cqrs-php-srbija-2017-05-27#/) [Joindin](https://joind.in/talk/67342)
@@ -16,6 +26,8 @@ permalink: /about-me/talks/
 - 2017/03/16 ZgPHP meetup [Slides](http://slides.com/mirosvrtan/intro-to-es-cqrs-zgphp-2017-04#/) [Joindin](https://joind.in/talk/37010)
 
 ### Being a remote developer
+- 2018/06/09 DPC 2018 [Slides](https://slides.com/mirosvrtan/being-a-remote-developer-dpc-18/) [JoindIn](https://joind.in/event/dutch-php-conference-2018/being-a-remote-developer)
+- 2018/04/14 PHP Yorkshire 2018 [Slides](https://slides.com/mirosvrtan/being-a-remote-developer-php-yorkshire-2018/) [JoindIn](https://joind.in/event/php-yorkshire-2018/being-a-remote-developer)
 - 2016/10/29 WebCamp Zagreb 2016 [Video](https://www.youtube.com/watch?v=gF-SRvu1t5A) [Slides](http://slides.com/mirosvrtan/deck-11#/) [Joindin](https://joind.in/talk/29ee1)
 
 ### Jenkins vs Circle vs Travis
