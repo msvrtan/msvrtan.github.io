@@ -4,6 +4,23 @@ title: Talks
 permalink: /about-me/talks/
 ---
 
+### Symfony Con 2018, Lisbon, Portugal 
+#### 2018-12-06 When testing makes no sense
+
+### PHPCE 2018, Prague, Chechia (https://2018.phpce.eu/en/#agenda)
+#### 2018-10-28 When testing makes no sense
+#### 2018-10-27 Using migrations and fixtures
+
+### WebCamp Zagreb 2018, Zagreb, Croatia (https://2018.webcampzg.org/talks/nitpicking-terminology-are-we-using-the-right-terms/)
+#### 2018-10-06 Nitpicking terminology: are we using the right terms (keynote)
+
+### PHP Conference Asia 2018, Singapore (https://2018.phpconf.asia/)
+#### 2018-09-29 Hands on PHPSpec (workshop)
+
+### Cascadia PHP, Portland,OR (https://www.cascadiaphp.com/)
+#### 2018-09-15 Intro to EventSourcing & CQRS 
+
+
 ### When testing makes no sense
 - 2018/06/08 DPC 2018 *TODO*
 - 2018/05/26 PHP Serbia 2018, Belgrade [Slides](https://slides.com/mirosvrtan/when-testing-makes-no-sense-belgrade-phpsrbija2018/) [Joindin](https://joind.in/event/php-serbia-conference-2018/when-testing-makes-no-sense)
