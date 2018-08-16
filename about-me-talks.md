@@ -26,7 +26,7 @@ permalink: /about-me/talks/
 ## Previous
 
 ### When testing makes no sense
-- 2018/06/08 DPC 2018 *TODO*
+- 2018/06/08 Dutch PHP Conference 2018, Amsterdam [Video](https://www.youtube.com/watch?v=vmykptcAZSI) [Slides](https://slides.com/mirosvrtan/when-testing-makes-no-sense-dpc-2018#/) [JoindIn](https://joind.in/event/dutch-php-conference-2018/when-testing-makes-no-sense)
 - 2018/05/26 PHP Serbia 2018, Belgrade [Slides](https://slides.com/mirosvrtan/when-testing-makes-no-sense-belgrade-phpsrbija2018/) [Joindin](https://joind.in/event/php-serbia-conference-2018/when-testing-makes-no-sense)
 - 2018/03/08 PHP Slovenia meetup, Ljubljana [Slides](https://slides.com/mirosvrtan/when-testing-makes-no-sense-ljubljana-2018-03-08/)
 
@@ -47,7 +47,7 @@ permalink: /about-me/talks/
 - 2017/03/16 ZgPHP meetup [Slides](http://slides.com/mirosvrtan/intro-to-es-cqrs-zgphp-2017-04#/) [Joindin](https://joind.in/talk/37010)
 
 ### Being a remote developer
-- 2018/06/09 DPC 2018 [Slides](https://slides.com/mirosvrtan/being-a-remote-developer-dpc-18/) [JoindIn](https://joind.in/event/dutch-php-conference-2018/being-a-remote-developer)
+- 2018/06/09 Dutch PHP Conference 2018, Amsterdam [Video](https://www.youtube.com/watch?v=gtryBjA6SAk) [Slides](https://slides.com/mirosvrtan/being-a-remote-developer-dpc-18/) [JoindIn](https://joind.in/event/dutch-php-conference-2018/being-a-remote-developer)
 - 2018/04/14 PHP Yorkshire 2018 [Slides](https://slides.com/mirosvrtan/being-a-remote-developer-php-yorkshire-2018/) [JoindIn](https://joind.in/event/php-yorkshire-2018/being-a-remote-developer)
 - 2016/10/29 WebCamp Zagreb 2016 [Video](https://www.youtube.com/watch?v=gF-SRvu1t5A) [Slides](http://slides.com/mirosvrtan/deck-11#/) [Joindin](https://joind.in/talk/29ee1)
 
