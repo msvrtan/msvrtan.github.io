@@ -4,6 +4,8 @@ title: Talks
 permalink: /about-me/talks/
 ---
 
+## Future talks
+
 ### Symfony Con 2018, Lisbon, Portugal 
 - 2018-12-06 When testing makes no sense
 
@@ -20,6 +22,8 @@ permalink: /about-me/talks/
 ### Cascadia PHP, Portland,OR
 - 2018-09-15 Intro to EventSourcing & CQRS 
 
+
+## Previous
 
 ### When testing makes no sense
 - 2018/06/08 DPC 2018 *TODO*
