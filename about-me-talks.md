@@ -19,7 +19,7 @@ permalink: /about-me/talks/
 ### PHP Conference Asia 2018, Singapore
 - 2018-09-29 Hands on PHPSpec (workshop)
 
-### Cascadia PHP, Portland,OR
+### Cascadia 2018, Portland
 - 2018-09-15 Intro to EventSourcing & CQRS 
 
 
