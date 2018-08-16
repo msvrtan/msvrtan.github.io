@@ -27,7 +27,7 @@ permalink: /about-me/talks/
 
 ### When testing makes no sense
 - 2018/06/08 Dutch PHP Conference 2018, Amsterdam [Video](https://www.youtube.com/watch?v=vmykptcAZSI) [Slides](https://slides.com/mirosvrtan/when-testing-makes-no-sense-dpc-2018#/) [JoindIn](https://joind.in/event/dutch-php-conference-2018/when-testing-makes-no-sense)
-- 2018/05/26 PHP Serbia 2018, Belgrade [Slides](https://slides.com/mirosvrtan/when-testing-makes-no-sense-belgrade-phpsrbija2018/) [Joindin](https://joind.in/event/php-serbia-conference-2018/when-testing-makes-no-sense)
+- 2018/05/26 PHP Serbia 2018, Belgrade [Video](https://www.youtube.com/watch?v=GdajdmsckDk) [Slides](https://slides.com/mirosvrtan/when-testing-makes-no-sense-belgrade-phpsrbija2018/) [Joindin](https://joind.in/event/php-serbia-conference-2018/when-testing-makes-no-sense)
 - 2018/03/08 PHP Slovenia meetup, Ljubljana [Slides](https://slides.com/mirosvrtan/when-testing-makes-no-sense-ljubljana-2018-03-08/)
 
 ### Nitpicking terminology: are we using right terms?
