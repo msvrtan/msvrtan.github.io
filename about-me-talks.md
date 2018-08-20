@@ -13,6 +13,9 @@ permalink: /about-me/talks/
 - 2018-10-28 When testing makes no sense
 - 2018-10-27 Using migrations and fixtures
 
+### ZgPHP meetup 2018/10, Zagreb. Croatia
+- 2018-10-18 Using migrations and fixtures
+
 ### WebCamp Zagreb 2018, Zagreb, Croatia 
 - 2018-10-06 Nitpicking terminology: are we using the right terms (keynote)
 
