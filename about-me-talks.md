@@ -22,13 +22,11 @@ permalink: /about-me/talks/
 ### PHP Conference Asia 2018, Singapore
 - 2018-09-29 Hands on PHPSpec (workshop)
 
-### Cascadia 2018, Portland
-- 2018-09-15 Intro to EventSourcing & CQRS 
-
 
 ## Previous
 
 ### When testing makes no sense
+- 2018-09-16 Uncon track of Cascadia 2018, Portland [Slides](https://slides.com/mirosvrtan/when-testing-makes-no-sense-cascadia-2018/) [Joindin](https://joind.in/event/cascadia-php/when-testing-makes-no-sense)
 - 2018/06/08 Dutch PHP Conference 2018, Amsterdam [Video](https://www.youtube.com/watch?v=vmykptcAZSI) [Slides](https://slides.com/mirosvrtan/when-testing-makes-no-sense-dpc-2018#/) [JoindIn](https://joind.in/event/dutch-php-conference-2018/when-testing-makes-no-sense)
 - 2018/05/26 PHP Serbia 2018, Belgrade [Video](https://www.youtube.com/watch?v=GdajdmsckDk) [Slides](https://slides.com/mirosvrtan/when-testing-makes-no-sense-belgrade-phpsrbija2018/) [Joindin](https://joind.in/event/php-serbia-conference-2018/when-testing-makes-no-sense)
 - 2018/03/08 PHP Slovenia meetup, Ljubljana [Slides](https://slides.com/mirosvrtan/when-testing-makes-no-sense-ljubljana-2018-03-08/)
@@ -45,6 +43,7 @@ permalink: /about-me/talks/
 - 2017/05/19 AFUP Tour 2017, Nantes [Slides](http://slides.com/mirosvrtan/year-with-es-cqrs-afp-tour-2017#/) [Joindin](https://joind.in/talk/b4f6b)
 
 ### Intro to EventSourcing & CQRS 
+- 2018-09-15 Cascadia 2018, Portland [Slides](https://slides.com/mirosvrtan/intro-to-es-cqrs-cascadia-php-2018/) [Joindin](https://joind.in/event/cascadia-php/intro-to-eventsourcing-and-cqrs)
 - 2017/10/18 NYPHP meetup, New York [Slides](http://slides.com/mirosvrtan/intro-to-es-cqrs-nyphp-2017-10-18#/) [Joindin](https://joind.in/talk/5453d)
 - 2017/04/18 PHPSrbija meetup [Slides](http://slides.com/mirosvrtan/intro-to-es-cqrs-php-serbia-meetup#/) [Joindin](https://joind.in/talk/81efb)
 - 2017/03/16 ZgPHP meetup [Slides](http://slides.com/mirosvrtan/intro-to-es-cqrs-zgphp-2017-04#/) [Joindin](https://joind.in/talk/37010)
