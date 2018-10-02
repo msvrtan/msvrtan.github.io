@@ -19,9 +19,6 @@ permalink: /about-me/talks/
 ### WebCamp Zagreb 2018, Zagreb, Croatia 
 - 2018-10-06 Nitpicking terminology: are we using the right terms (keynote)
 
-### PHP Conference Asia 2018, Singapore
-- 2018-09-29 Hands on PHPSpec (workshop)
-
 
 ## Previous
 
@@ -60,6 +57,7 @@ permalink: /about-me/talks/
 - 2016/09/15 ZgPHP meetup [Slides](http://slides.com/mirosvrtan/travis-vs-circle-vs-jenkins#/)
 
 ### Hands on PHPSpec tutorial/workshop
+- 2018/09/29 PHP Conference Asia 2018, Singapore [Slides](https://slides.com/mirosvrtan/hands-on-phpspec-singapore-2018/) [Joindin](https://joind.in/talk/04d0e)
 - 2017/05/18 PHPDay 2017, Verona [Slides](http://slides.com/mirosvrtan/hands-on-phpspec-phpday-2017#/) [Joindin](https://joind.in/talk/50f68)
 - 2016/09/30 PHPCon Poland 2016 [Slides](http://slides.com/mirosvrtan/hands-on-phpspec-phpcon-poland-2016#/) [Joindin](https://joind.in/talk/b3e6d)
 - 2016/10/07 PHP Bulgaria 2016 [Slides](http://slides.com/mirosvrtan/hands-on-phpspec-phpcon-poland-2016-8#/) [Joindin](https://joind.in/talk/746ad)
