@@ -6,6 +6,9 @@ permalink: /about-me/talks/
 
 ## Future talks
 
+### Sunshine PHP 2019, Miami, FL
+- 2019-02-08 Year with EventSourcing & CQRS
+
 ### Symfony Con 2018, Lisbon, Portugal 
 - 2018-12-06 When testing makes no sense
 
