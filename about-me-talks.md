@@ -19,10 +19,8 @@ permalink: /about-me/talks/
 [T35] - 2018/10/27 PHPCE 2018, Prague, Chechia [Slides](https://slides.com/mirosvrtan/using-migrations-and-fixtures-phpce/) [JoindIn](https://joind.in/event/php-central-europe-conference-2018/using-migrations-and-fixtures)
 [T34] - 2018/10/18 ZgPHP meetup 2018/10, Zagreb. Croatia [Slides](https://slides.com/mirosvrtan/using-migrations-and-fixtures-zgphp/) [Joindin](https://joind.in/event/zgphp-meetup-86-201810/using-migrations-and-fixtures)
 
-
 ### [Keynote] Nitpicking terminology: are we using right terms? 
 [T33] - 2018/10/06 WebCamp Zagreb 2018, Zagreb, Croatia  [Slides](https://slides.com/mirosvrtan/nitpicking-terminology-webcamp-zagreb-2018/) [Joindin](https://joind.in/event/webcamp-zagreb-2018/nitpicking-terminology-are-we-using-the-right-terms)
-
 
 ### When testing makes no sense
 [T36] - 2018/10/28 PHPCE 2018, Prague, Chechia [Slides](https://slides.com/mirosvrtan/when-testing-makes-no-sense-php-ce-2018/) [JoindIn](https://joind.in/event/php-central-europe-conference-2018/when-testing-makes-no-sense)
@@ -30,7 +28,6 @@ permalink: /about-me/talks/
 [T29] - 2018/06/08 Dutch PHP Conference 2018, Amsterdam [Video](https://www.youtube.com/watch?v=vmykptcAZSI) [Slides](https://slides.com/mirosvrtan/when-testing-makes-no-sense-dpc-2018#/) [JoindIn](https://joind.in/event/dutch-php-conference-2018/when-testing-makes-no-sense)
 [T28] - 2018/05/26 PHP Serbia 2018, Belgrade [Video](https://www.youtube.com/watch?v=GdajdmsckDk) [Slides](https://slides.com/mirosvrtan/when-testing-makes-no-sense-belgrade-phpsrbija2018/) [Joindin](https://joind.in/event/php-serbia-conference-2018/when-testing-makes-no-sense)
 [T25] - 2018/03/08 PHP Slovenia meetup, Ljubljana [Slides](https://slides.com/mirosvrtan/when-testing-makes-no-sense-ljubljana-2018-03-08/)
-
 
 ### Nitpicking terminology: are we using right terms?
 [T26] - 2018/04/07 Infinum server side talks, Zagreb [Slides](https://slides.com/mirosvrtan/nitpicking-terminology-server-side-talks/)
