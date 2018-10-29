@@ -12,15 +12,12 @@ permalink: /about-me/talks/
 ### Symfony Con 2018, Lisbon, Portugal 
 - 2018-12-06 When testing makes no sense
 
-### PHPCE 2018, Prague, Chechia 
-- 2018-10-28 When testing makes no sense
-- 2018-10-27 Using migrations and fixtures
-
 
 ## Previous
 
 ### Using migrations and fixtures 
-2018/10/18 ZgPHP meetup 2018/10, Zagreb. Croatia [Slides](https://slides.com/mirosvrtan/using-migrations-and-fixtures-zgphp/) [Joindin](https://joind.in/event/zgphp-meetup-86-201810/using-migrations-and-fixtures)
+- 2018/10/27 PHPCE 2018, Prague, Chechia [Slides](https://slides.com/mirosvrtan/using-migrations-and-fixtures-phpce/) [JoindIn](https://joind.in/event/php-central-europe-conference-2018/using-migrations-and-fixtures)
+- 2018/10/18 ZgPHP meetup 2018/10, Zagreb. Croatia [Slides](https://slides.com/mirosvrtan/using-migrations-and-fixtures-zgphp/) [Joindin](https://joind.in/event/zgphp-meetup-86-201810/using-migrations-and-fixtures)
 
 
 ### [Keynote] Nitpicking terminology: are we using right terms? 
@@ -28,6 +25,7 @@ permalink: /about-me/talks/
 
 
 ### When testing makes no sense
+- 2018/10/28 PHPCE 2018, Prague, Chechia [Slides](https://slides.com/mirosvrtan/when-testing-makes-no-sense-php-ce-2018/) [JoindIn](https://joind.in/event/php-central-europe-conference-2018/when-testing-makes-no-sense)
 - 2018/09/16 Uncon track of Cascadia 2018, Portland [Slides](https://slides.com/mirosvrtan/when-testing-makes-no-sense-cascadia-2018/) [Joindin](https://joind.in/event/cascadia-php/when-testing-makes-no-sense)
 - 2018/06/08 Dutch PHP Conference 2018, Amsterdam [Video](https://www.youtube.com/watch?v=vmykptcAZSI) [Slides](https://slides.com/mirosvrtan/when-testing-makes-no-sense-dpc-2018#/) [JoindIn](https://joind.in/event/dutch-php-conference-2018/when-testing-makes-no-sense)
 - 2018/05/26 PHP Serbia 2018, Belgrade [Video](https://www.youtube.com/watch?v=GdajdmsckDk) [Slides](https://slides.com/mirosvrtan/when-testing-makes-no-sense-belgrade-phpsrbija2018/) [Joindin](https://joind.in/event/php-serbia-conference-2018/when-testing-makes-no-sense)
