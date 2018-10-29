@@ -82,14 +82,16 @@ permalink: /about-me/talks/
 ####  Zagreb under siege! (in Croatian)
 [T1] - 2012/02/92 ZgPHP meetup  [Page](https://www.entrio.hr/event/zgphpmeetup-6-166)
 
+## Previous workshops
 
 ### Hands on PHPSpec tutorial/workshop
-[W7] - 2018/09/29 PHP Conference Asia 2018, Singapore [Slides](https://slides.com/mirosvrtan/hands-on-phpspec-singapore-2018/) [Joindin](https://joind.in/talk/04d0e)
-[W6] - 2018/02/19 Belgrade (semi-public)
-[W5] - 2018/02/10 Zagreb (semi-public)
-[W4] - 2017/05/12 PHPDay 2017, Verona [Slides](http://slides.com/mirosvrtan/hands-on-phpspec-phpday-2017#/) [Joindin](https://joind.in/talk/50f68)
-[W3] - 2016/10/07 PHP Bulgaria 2016 [Slides](http://slides.com/mirosvrtan/hands-on-phpspec-phpcon-poland-2016-8#/) [Joindin](https://joind.in/talk/746ad)
-[W2] - 2016/09/30 PHPCon Poland 2016 [Slides](http://slides.com/mirosvrtan/hands-on-phpspec-phpcon-poland-2016#/) [Joindin](https://joind.in/talk/b3e6d)
+[W8] - 2018/09/29 PHP Conference Asia 2018, Singapore [Slides](https://slides.com/mirosvrtan/hands-on-phpspec-singapore-2018/) [Joindin](https://joind.in/talk/04d0e)
+[W7] - 2018/02/19 Belgrade (semi-public)
+[W6] - 2018/02/10 Zagreb (semi-public)
+[W5] - 2017/05/12 PHPDay 2017, Verona [Slides](http://slides.com/mirosvrtan/hands-on-phpspec-phpday-2017#/) [Joindin](https://joind.in/talk/50f68)
+[W4] - 2016/10/07 PHP Bulgaria 2016 [Slides](http://slides.com/mirosvrtan/hands-on-phpspec-phpcon-poland-2016-8#/) [Joindin](https://joind.in/talk/746ad)
+[W3] - 2016/09/30 PHPCon Poland 2016 [Slides](http://slides.com/mirosvrtan/hands-on-phpspec-phpcon-poland-2016#/) [Joindin](https://joind.in/talk/b3e6d)
+[W2] - 2016/04/08 Internal Ticketswap
 [W1] - 2016/03/17 ZgPHP meetup 55 [Joindin](http://legacy.joind.in/talk/view/17466)
 
 
