@@ -13,7 +13,7 @@ permalink: /about-me/talks/
 - 2018-12-06 When testing makes no sense
 
 
-## Previous
+## Previous talks
 
 ### Using migrations and fixtures 
 [T35] - 2018/10/27 PHPCE 2018, Prague, Chechia [Slides](https://slides.com/mirosvrtan/using-migrations-and-fixtures-phpce/) [JoindIn](https://joind.in/event/php-central-europe-conference-2018/using-migrations-and-fixtures)
