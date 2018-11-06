@@ -9,6 +9,9 @@ permalink: /about-me/talks/
 ### Sunshine PHP 2019, Miami, FL
 - 2019-02-08 Year with EventSourcing & CQRS
 
+### PHP Benelux, Antwerp, BE
+- 2019-01-25 Command & event pattern
+
 ### Symfony Con 2018, Lisbon, Portugal 
 - 2018-12-06 When testing makes no sense
 
