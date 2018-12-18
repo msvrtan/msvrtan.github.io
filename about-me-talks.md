@@ -12,10 +12,6 @@ permalink: /about-me/talks/
 ### PHP Benelux, Antwerp, BE
 - 2019-01-25 Command & event pattern
 
-### Symfony Con 2018, Lisbon, Portugal 
-- 2018-12-06 When testing makes no sense
-
-
 ## Previous talks
 
 ### Using migrations and fixtures 
@@ -26,6 +22,7 @@ permalink: /about-me/talks/
 - [T33] 2018/10/06 WebCamp Zagreb 2018, Zagreb, Croatia  [Slides](https://slides.com/mirosvrtan/nitpicking-terminology-webcamp-zagreb-2018/) [Joindin](https://joind.in/event/webcamp-zagreb-2018/nitpicking-terminology-are-we-using-the-right-terms)
 
 ### When testing makes no sense
+- [T38] 2018/12/06 Symfony Con 2018, Lisbon, Portugal [Slides](https://slides.com/mirosvrtan/when-testing-makes-no-sense-symfonycon2018/) [JoindIn](https://joind.in/event/symfonycon-lisbon-2018/when-testing-makes-no-sense)
 - [T36] 2018/10/28 PHPCE 2018, Prague, Chechia [Slides](https://slides.com/mirosvrtan/when-testing-makes-no-sense-php-ce-2018/) [JoindIn](https://joind.in/event/php-central-europe-conference-2018/when-testing-makes-no-sense)
 - [T32] 2018/09/16 Uncon track of Cascadia 2018, Portland [Slides](https://slides.com/mirosvrtan/when-testing-makes-no-sense-cascadia-2018/) [Joindin](https://joind.in/event/cascadia-php/when-testing-makes-no-sense)
 - [T29] 2018/06/08 Dutch PHP Conference 2018, Amsterdam [Video](https://www.youtube.com/watch?v=vmykptcAZSI) [Slides](https://slides.com/mirosvrtan/when-testing-makes-no-sense-dpc-2018#/) [JoindIn](https://joind.in/event/dutch-php-conference-2018/when-testing-makes-no-sense)
