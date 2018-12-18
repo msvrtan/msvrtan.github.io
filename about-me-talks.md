@@ -37,6 +37,7 @@ permalink: /about-me/talks/
 - [T24] 2018/02/20 PHP Serbia meetup, Belgrade [Slides](https://slides.com/mirosvrtan/nitpicking-terminology-phpsrbija/)
 
 ### Year with EventSourcing & CQRS
+- [T37] 2018/12/02 phplx meetup, Lisbon [Slides](https://slides.com/mirosvrtan/year-with-es-cqrs-lisbon-meetup-2018/)
 - [T23] 2018/01/27 PHP Benelux 2018, Antwerp [Slides](https://slides.com/mirosvrtan/year-with-es-cqrs-php-bnl-2018-01-27/) [Joindin](https://joind.in/event/phpbenelux-conference-2018/year-with-event-sourcing-and-cqrs)
 - [T21] 2017/10/26 International PHP Conference 2017, Munich [Slides](https://slides.com/mirosvrtan/year-with-es-cqrs-ipc-2017-10-26/)
 - [T19] 2017/10/06 WebCamp Zagreb 2017 [Slides](http://slides.com/mirosvrtan/year-with-es-cqrs-webcamp-zagreb-2017-10-06#/) [Joindin](https://joind.in/talk/d1e95)
