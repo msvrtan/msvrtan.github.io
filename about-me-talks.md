@@ -9,9 +9,6 @@ permalink: /about-me/talks/
 ### Sunshine PHP 2019, Miami, FL
 - 2019-02-08 Year with EventSourcing & CQRS
 
-### PHP Benelux, Antwerp, BE
-- 2019-01-25 Command & event pattern
-
 ## Previous talks
 
 ### Using migrations and fixtures 
@@ -81,6 +78,9 @@ permalink: /about-me/talks/
 - [T1] 2012/02/92 ZgPHP meetup  [Page](https://www.entrio.hr/event/zgphpmeetup-6-166)
 
 ## Previous workshops
+
+### Command & event pattern
+- [W9] 2019/01/25 PHP Benelux 2019, Antwerp [Slides](https://slides.com/mirosvrtan/command-event-patterns-phpbnl19#/) [JoindIn](https://joind.in/talk/9509f)
 
 ### Hands on PHPSpec tutorial/workshop
 - [W8] 2018/09/29 PHP Conference Asia 2018, Singapore [Slides](https://slides.com/mirosvrtan/hands-on-phpspec-singapore-2018/) [Joindin](https://joind.in/talk/04d0e)
