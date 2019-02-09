@@ -6,6 +6,9 @@ permalink: /about-me/talks/
 
 ## Future talks
 
+### ZgPHP 2019/03, Zagreb
+- 2019-03-21 [NEW TALK] Naming is hard (discussion)
+
 ### Javantura 2019, Zagreb
 - 2019-02-23 [NEW TALK] Learn by teaching
 
