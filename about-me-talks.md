@@ -6,10 +6,6 @@ permalink: /about-me/talks/
 
 ## Future talks
 
-### Sunshine PHP 2019, Miami, FL
-- 2019-02-08 Intro to EventSourcing & CQRS (unconf)
-- 2019-02-08 Year with EventSourcing & CQRS
-
 ## Previous talks
 
 ### Using migrations and fixtures 
@@ -32,6 +28,7 @@ permalink: /about-me/talks/
 - [T24] 2018/02/20 PHP Serbia meetup, Belgrade [Slides](https://slides.com/mirosvrtan/nitpicking-terminology-phpsrbija/)
 
 ### Year with EventSourcing & CQRS
+- [T40] 2019/02/09 Sunshine PHP 2019, Miami, FL [Slides](https://slides.com/mirosvrtan/year-with-es-cqrs-sunshinephp-2019/) [JoindIn](https://joind.in/talk/9fd23)
 - [T37] 2018/12/02 phplx meetup, Lisbon [Slides](https://slides.com/mirosvrtan/year-with-es-cqrs-lisbon-meetup-2018/)
 - [T23] 2018/01/27 PHP Benelux 2018, Antwerp [Slides](https://slides.com/mirosvrtan/year-with-es-cqrs-php-bnl-2018-01-27/) [Joindin](https://joind.in/event/phpbenelux-conference-2018/year-with-event-sourcing-and-cqrs)
 - [T21] 2017/10/26 International PHP Conference 2017, Munich [Slides](https://slides.com/mirosvrtan/year-with-es-cqrs-ipc-2017-10-26/)
@@ -40,6 +37,7 @@ permalink: /about-me/talks/
 - [T17] 2017/05/19 AFUP Tour 2017, Nantes [Slides](http://slides.com/mirosvrtan/year-with-es-cqrs-afp-tour-2017#/) [Joindin](https://joind.in/talk/b4f6b)
 
 ### Intro to EventSourcing & CQRS 
+- [T39] 2019/02/09 (uncon) Sunshine PHP 2019, Miami, FL [Slides](https://slides.com/mirosvrtan/intro-to-es-cqrs-sunshinephp-2019/) [JoindIn](https://joind.in/talk/e8636)
 - [T31] 2018/09/15 Cascadia 2018, Portland [Slides](https://slides.com/mirosvrtan/intro-to-es-cqrs-cascadia-php-2018/) [Joindin](https://joind.in/event/cascadia-php/intro-to-eventsourcing-and-cqrs)
 - [T20] 2017/10/18 NYPHP meetup, New York [Slides](http://slides.com/mirosvrtan/intro-to-es-cqrs-nyphp-2017-10-18#/) [Joindin](https://joind.in/talk/5453d)
 - [T16] 2017/04/18 PHPSrbija meetup [Slides](http://slides.com/mirosvrtan/intro-to-es-cqrs-php-serbia-meetup#/) [Joindin](https://joind.in/talk/81efb)
