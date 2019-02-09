@@ -6,6 +6,9 @@ permalink: /about-me/talks/
 
 ## Future talks
 
+### DumpDays 2019, Split
+- 2019-05-17 [NEW TALK] Road to seniority
+
 ### ZgPHP 2019/03, Zagreb
 - 2019-03-21 [NEW TALK] Naming is hard (discussion)
 
