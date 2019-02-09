@@ -7,7 +7,7 @@ permalink: /about-me/talks/
 ## Future talks
 
 ### Javantura 2019, Zagreb
-- 2019-02-23 Learn by teaching
+- 2019-02-23 [NEW TALK] Learn by teaching
 
 ## Previous talks
 
