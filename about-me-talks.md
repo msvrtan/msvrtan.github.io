@@ -7,6 +7,7 @@ permalink: /about-me/talks/
 ## Future talks
 
 ### Sunshine PHP 2019, Miami, FL
+- 2019-02-08 Intro to EventSourcing & CQRS (unconf)
 - 2019-02-08 Year with EventSourcing & CQRS
 
 ## Previous talks
