@@ -6,6 +6,9 @@ permalink: /about-me/talks/
 
 ## Future talks
 
+### Javantura 2019, Zagreb
+- 2019-02-23 Learn by teaching
+
 ## Previous talks
 
 ### Using migrations and fixtures 
