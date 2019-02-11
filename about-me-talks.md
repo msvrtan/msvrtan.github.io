@@ -6,6 +6,9 @@ permalink: /about-me/talks/
 
 ## Future talks
 
+### WeAreDevelopers World Congress 2019, Berlin
+- 2019-06-07 When testing makes no sense
+
 ### DumpDays 2019, Split
 - 2019-05-17 [NEW TALK] Road to seniority
 
