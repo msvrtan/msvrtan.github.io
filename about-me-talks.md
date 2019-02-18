@@ -12,6 +12,9 @@ permalink: /about-me/talks/
 ### DumpDays 2019, Split
 - 2019-05-17 [NEW TALK] Road to seniority
 
+### PHPDay 2019, Verona
+- 2019-05-10 Using migrations and fixtures
+
 ### ZgPHP 2019/03, Zagreb
 - 2019-03-21 [NEW TALK] Naming is hard (discussion)
 
