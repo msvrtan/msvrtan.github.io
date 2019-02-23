@@ -15,9 +15,6 @@ permalink: /about-me/talks/
 ### PHPDay 2019, Verona
 - 2019-05-10 Using migrations and fixtures
 
-### ZgPHP 2019/03, Zagreb
-- 2019-03-21 [NEW TALK] Naming is hard (discussion)
-
 ## Previous talks
 
 ### Learn by teaching
