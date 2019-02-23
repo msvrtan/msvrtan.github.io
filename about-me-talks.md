@@ -18,10 +18,10 @@ permalink: /about-me/talks/
 ### ZgPHP 2019/03, Zagreb
 - 2019-03-21 [NEW TALK] Naming is hard (discussion)
 
-### Javantura 2019, Zagreb
-- 2019-02-23 [NEW TALK] Learn by teaching
-
 ## Previous talks
+
+### Learn by teaching
+- [T41] 2019-02-23 Javantura [Slides](https://slides.com/mirosvrtan/learn-by-teaching-javantura-2019/)
 
 ### Using migrations and fixtures 
 - [T35] 2018/10/27 PHPCE 2018, Prague, Chechia [Slides](https://slides.com/mirosvrtan/using-migrations-and-fixtures-phpce/) [JoindIn](https://joind.in/event/php-central-europe-conference-2018/using-migrations-and-fixtures)
