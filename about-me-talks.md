@@ -9,9 +9,6 @@ permalink: /about-me/talks/
 ### WeAreDevelopers World Congress 2019, Berlin
 - 2019-06-07 When testing makes no sense
 
-### DumpDays 2019, Split
-- 2019-05-17 [NEW TALK] Road to seniority
-
 ### PHPDay 2019, Verona
 - 2019-05-10 Using migrations and fixtures
 
