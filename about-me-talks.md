@@ -12,15 +12,13 @@ permalink: /about-me/talks/
 ### ServerSideTalks meetup, Zagreb
 - 2019-05-15 Learn by teaching
 
-### PHPDay 2019, Verona
-- 2019-05-10 Using migrations and fixtures
-
 ## Previous talks
 
 ### Learn by teaching
 - [T41] 2019-02-23 Javantura [Slides](https://slides.com/mirosvrtan/learn-by-teaching-javantura-2019/)
 
 ### Using migrations and fixtures 
+- [T42] 2019/05/10 PHPDay 2019, Verona, Italy [Slides](https://slides.com/mirosvrtan/using-migrations-and-fixtures-phpday-2019) [Joindin](https://joind.in/talk/7ca91)
 - [T35] 2018/10/27 PHPCE 2018, Prague, Chechia [Slides](https://slides.com/mirosvrtan/using-migrations-and-fixtures-phpce/) [JoindIn](https://joind.in/event/php-central-europe-conference-2018/using-migrations-and-fixtures)
 - [T34] 2018/10/18 ZgPHP meetup 2018/10, Zagreb. Croatia [Slides](https://slides.com/mirosvrtan/using-migrations-and-fixtures-zgphp/) [Joindin](https://joind.in/event/zgphp-meetup-86-201810/using-migrations-and-fixtures)
 
