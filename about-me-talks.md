@@ -9,12 +9,10 @@ permalink: /about-me/talks/
 ### WeAreDevelopers World Congress 2019, Berlin
 - 2019-06-07 When testing makes no sense
 
-### ServerSideTalks meetup, Zagreb
-- 2019-05-15 Learn by teaching
-
 ## Previous talks
 
 ### Learn by teaching
+- [T43] 2019-05-15 ServerSide talks, Zagreb [Slides](https://slides.com/mirosvrtan/learn-by-teaching-server-side-talks-2019)
 - [T41] 2019-02-23 Javantura [Slides](https://slides.com/mirosvrtan/learn-by-teaching-javantura-2019/)
 
 ### Using migrations and fixtures 
