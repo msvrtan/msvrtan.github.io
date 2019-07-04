@@ -6,8 +6,7 @@ permalink: /about-me/talks/
 
 ## Future talks
 
-### WeAreDevelopers World Congress 2019, Berlin
-- 2019-06-07 When testing makes no sense
+Nothing planned :(
 
 ## Previous talks
 
@@ -24,6 +23,7 @@ permalink: /about-me/talks/
 - [T33] 2018/10/06 WebCamp Zagreb 2018, Zagreb, Croatia  [Slides](https://slides.com/mirosvrtan/nitpicking-terminology-webcamp-zagreb-2018/) [Joindin](https://joind.in/event/webcamp-zagreb-2018/nitpicking-terminology-are-we-using-the-right-terms)
 
 ### When testing makes no sense
+- [T44] 2019/06/07 WeAreDevelopers World Congress 2019, Berlin [Slides](https://slides.com/mirosvrtan/when-testing-makes-no-sense-we-are-devs-2019)
 - [T38] 2018/12/06 Symfony Con 2018, Lisbon, Portugal [Slides](https://slides.com/mirosvrtan/when-testing-makes-no-sense-symfonycon2018/) [JoindIn](https://joind.in/event/symfonycon-lisbon-2018/when-testing-makes-no-sense)
 - [T36] 2018/10/28 PHPCE 2018, Prague, Chechia [Slides](https://slides.com/mirosvrtan/when-testing-makes-no-sense-php-ce-2018/) [JoindIn](https://joind.in/event/php-central-europe-conference-2018/when-testing-makes-no-sense)
 - [T32] 2018/09/16 Uncon track of Cascadia 2018, Portland [Slides](https://slides.com/mirosvrtan/when-testing-makes-no-sense-cascadia-2018/) [Joindin](https://joind.in/event/cascadia-php/when-testing-makes-no-sense)
