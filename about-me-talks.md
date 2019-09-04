@@ -6,7 +6,8 @@ permalink: /about-me/talks/
 
 ## Future talks
 
-Nothing planned :(
+### ZgPHP meetup, Zagreb
+- 2019-09-19 Transpiling PHP
 
 ## Previous talks
 
