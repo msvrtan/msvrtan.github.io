@@ -6,6 +6,10 @@ permalink: /about-me/talks/
 
 ## Future talks
 
+### Bulgaria PHP 2019, Sofia
+- 2019-11-08 Workshop: Command & event patterns
+- 2019-11-09 Transpiling PHP
+
 ### ZgPHP meetup, Zagreb
 - 2019-09-19 Transpiling PHP
 
