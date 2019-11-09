@@ -86,7 +86,7 @@ Nothing planned for now..
 - [T2] 2012/11/15 ZgPHP meetup 15 [Video](http://zgphp.org/videos/miro-svrtan-git-do-you-use-it/)
 
 ####  Zagreb under siege! (in Croatian)
-- [T1] 2012/02/92 ZgPHP meetup  [Page](https://www.entrio.hr/event/zgphpmeetup-6-166)
+- [T1] 2012/02/29 ZgPHP meetup  [Page](https://www.entrio.hr/event/zgphpmeetup-6-166)
 
 ## Previous workshops
 
