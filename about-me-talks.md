@@ -6,14 +6,13 @@ permalink: /about-me/talks/
 
 ## Future talks
 
-### Bulgaria PHP 2019, Sofia
-- 2019-11-08 Workshop: Command & event patterns
-- 2019-11-09 Transpiling PHP
-
-### ZgPHP meetup, Zagreb
-- 2019-09-19 Transpiling PHP
+Nothing planned for now..
 
 ## Previous talks
+
+### Transpiling PHP
+- [T46] 2019/11/09 Bulgaria PHP 2019, Sofia [Slides](https://slides.com/mirosvrtan/transpilling-php-bgphp-2019/live#/) [Joindin](https://joind.in/talk/e9a71)
+- [T45] 2019/09/19 ZgPHP meetup, Zagreb [Slides](https://slides.com/mirosvrtan/transpiling-php-zgphp-97) [Joindin](https://joind.in/talk/55180)
 
 ### Learn by teaching
 - [T43] 2019-05-15 ServerSide talks, Zagreb [Slides](https://slides.com/mirosvrtan/learn-by-teaching-server-side-talks-2019)
@@ -92,6 +91,7 @@ permalink: /about-me/talks/
 ## Previous workshops
 
 ### Command & event pattern
+- [W10] 2019/11/08 Bulgaria PHP 2019, Sofia [Slides](https://slides.com/mirosvrtan/command-event-patterns-bgphp19) [Joindin](https://joind.in/talk/03296)
 - [W9] 2019/01/25 PHP Benelux 2019, Antwerp [Slides](https://slides.com/mirosvrtan/command-event-patterns-phpbnl19#/) [JoindIn](https://joind.in/talk/9509f)
 
 ### Hands on PHPSpec tutorial/workshop
