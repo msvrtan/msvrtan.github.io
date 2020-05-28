@@ -8,13 +8,7 @@ permalink: /about-me/talks/
 
 
 ### PHPDay 2020, Verona
-- 2020-05-14 Tools and traits to keep your code at level
-
-### ZgPHP meetup, Zagreb
-- 2020-04-23 Tools and traits to keep your code at level
-
-### PHP Slovenia meetup, Ljubljana
-- 2020-03-26 Tools and traits to keep your code at level
+- 2020-09-08 Tools and traits to keep your code at level
 
 
 ## Previous talks
