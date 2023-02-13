@@ -4,14 +4,7 @@ title: Talks
 permalink: /about-me/talks/
 ---
 
-## Future talks
-
-
-### PHPDay 2020, Verona
-- 2020-09-08 Tools and traits to keep your code at level
-
-
-## Previous talks
+## Talks
 
 ### Transpiling PHP
 - [T46] 2019/11/09 Bulgaria PHP 2019, Sofia [Slides](https://slides.com/mirosvrtan/transpilling-php-bgphp-2019/live#/) [Joindin](https://joind.in/talk/e9a71)
