@@ -6,6 +6,9 @@ permalink: /about-me/talks/
 
 ## Talks
 
+### Road to seniority (PHP edition)
+- [T47] 2023/10/19 ZgPHP meetup, Zagreb [Slides](https://slides.com/mirosvrtan/deck-223570)
+
 ### Transpiling PHP
 - [T46] 2019/11/09 Bulgaria PHP 2019, Sofia [Slides](https://slides.com/mirosvrtan/transpilling-php-bgphp-2019/live#/) [Joindin](https://joind.in/talk/e9a71)
 - [T45] 2019/09/19 ZgPHP meetup, Zagreb [Slides](https://slides.com/mirosvrtan/transpiling-php-zgphp-97) [Joindin](https://joind.in/talk/55180)
