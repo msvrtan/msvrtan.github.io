@@ -7,7 +7,7 @@ permalink: /about-me/talks/
 ## Talks
 
 ### Road to seniority (PHP edition)
-- [T47] 2023/11/13 Split PHP meetup #2, Split [Slides](https://slides.com/mirosvrtan/road-to-seniority-split-2023-11-14)
+- [T48] 2023/11/13 Split PHP meetup #2, Split [Slides](https://slides.com/mirosvrtan/road-to-seniority-split-2023-11-14)
 - [T47] 2023/10/19 ZgPHP meetup, Zagreb [Slides](https://slides.com/mirosvrtan/deck-223570)
 
 ### Transpiling PHP
